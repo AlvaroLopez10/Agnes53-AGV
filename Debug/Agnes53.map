@@ -1,0 +1,2244 @@
+Archive member included because of file (symbol)
+
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o (exit)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o (memset)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o) (__fill_mem)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_pow.o)
+                              ./src/Init_Settings/INIT_I2C.o (pow)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_sqrt.o)
+                              ./src/Init_Settings/INIT_I2C.o (sqrt)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_pow.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_pow.o) (__ieee754_pow)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_sqrt.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_sqrt.o) (__ieee754_sqrt)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_pow.o) (__double_nan)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_pow.o) (__fpclassifyd)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(scalbn.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_pow.o) (scalbn)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_frexp.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(scalbn.o) (frexp)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_ldexp.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(scalbn.o) (ldexp)
+c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+                              ./src/Modules/WEIGHT.o (__aeabi_dsub)
+c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+                              ./src/Modules/WEIGHT.o (__aeabi_dmul)
+c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_pow.o) (__aeabi_dcmpeq)
+c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_fixdfsi.o)
+                              ./src/Modules/WEIGHT.o (__aeabi_d2iz)
+c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_truncdfsf2.o)
+                              ./src/Modules/WEIGHT.o (__aeabi_d2f)
+c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+                              ./src/Init_Settings/INIT_ADC0.o (__aeabi_fsub)
+c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_muldivsf3.o)
+                              ./src/Init_Settings/INIT_I2C.o (__aeabi_fmul)
+c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+                              ./src/Init_Settings/INIT_I2C.o (__aeabi_fcmplt)
+c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_fixsfsi.o)
+                              ./src/Init_Settings/INIT_I2C.o (__aeabi_f2iz)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o (__init_cpp)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o) (__destroy_global_chain)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o (__copy_rom_sections_to_ram)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(errno.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_pow.o) (errno)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o) (__ewl_count_bits32)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_log.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o) (log)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_log.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_log.o) (__ieee754_log)
+c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_lshrdi3.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o) (__aeabi_llsr)
+c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_ashldi3.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o) (__aeabi_llsl)
+
+Allocating common symbols
+Common symbol       size              file
+
+side                0x4               ./src/Functions/LINE_TRACKER.o
+TEMPORAL            0x1               ./src/Init_Settings/INIT_UART0.o
+final_current       0x4               ./src/Init_Settings/INIT_ADC0.o
+errno               0x4               C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(errno.o)
+acceleration_y      0x4               ./src/Init_Settings/INIT_I2C.o
+voltage             0x4               ./src/Init_Settings/INIT_ADC0.o
+final_voltage       0x4               ./src/Init_Settings/INIT_ADC0.o
+arr_rasp            0x3               ./src/Init_Settings/INIT_UART0.o
+acy                 0x2               ./src/Init_Settings/INIT_I2C.o
+weight_value        0x8               ./src/Modules/WEIGHT.o
+current             0x4               ./src/Init_Settings/INIT_ADC0.o
+pwm_right           0x4               ./src/Functions/LINE_TRACKER.o
+acceleration_z      0x4               ./src/Init_Settings/INIT_I2C.o
+acceleration_x      0x4               ./src/Init_Settings/INIT_I2C.o
+acz                 0x2               ./src/Init_Settings/INIT_I2C.o
+value_ADC           0x4               ./src/Init_Settings/INIT_ADC0.o
+arr_input           0x14              ./src/Init_Settings/INIT_UART2.o
+pwm_left            0x4               ./src/Functions/LINE_TRACKER.o
+command_manual      0x1               ./src/Functions/MANUAL.o
+acx                 0x2               ./src/Init_Settings/INIT_I2C.o
+arr_sequence        0xc               ./src/Functions/SEMIAUTOMATICO.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .text.__thumb_startup
+                0x00000000       0x3c C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .text.__iar_program_start
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .bss.argv      0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .debug_info    0x00000000      0x144 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .debug_abbrev  0x00000000       0xc0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .debug_aranges
+                0x00000000       0x28 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .debug_line    0x00000000       0x68 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .debug_str     0x00000000      0x270 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .debug_frame   0x00000000       0x30 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .ARM.attributes
+                0x00000000       0x33 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .group         0x00000000        0x8 ./src/Modules/WEIGHT.o
+ .group         0x00000000        0x8 ./src/Modules/WEIGHT.o
+ .group         0x00000000        0x8 ./src/Modules/WEIGHT.o
+ .group         0x00000000        0x8 ./src/Modules/WEIGHT.o
+ .group         0x00000000        0x8 ./src/Modules/WEIGHT.o
+ .group         0x00000000        0x8 ./src/Modules/WEIGHT.o
+ .group         0x00000000        0x8 ./src/Modules/WEIGHT.o
+ .group         0x00000000        0x8 ./src/Modules/WEIGHT.o
+ .group         0x00000000        0x8 ./src/Modules/WEIGHT.o
+ .group         0x00000000        0x8 ./src/Modules/WEIGHT.o
+ .group         0x00000000        0x8 ./src/Modules/WEIGHT.o
+ .group         0x00000000        0x8 ./src/Modules/WEIGHT.o
+ .group         0x00000000        0x8 ./src/Modules/WEIGHT.o
+ .group         0x00000000        0x8 ./src/Modules/WEIGHT.o
+ .text          0x00000000        0x0 ./src/Modules/WEIGHT.o
+ .data          0x00000000        0x0 ./src/Modules/WEIGHT.o
+ .bss           0x00000000        0x0 ./src/Modules/WEIGHT.o
+ .data.CONST_A  0x00000000        0x4 ./src/Modules/WEIGHT.o
+ .data.CONST_B  0x00000000        0x4 ./src/Modules/WEIGHT.o
+ .bss.OFFSET    0x00000000        0x4 ./src/Modules/WEIGHT.o
+ .text.readCount
+                0x00000000       0x84 ./src/Modules/WEIGHT.o
+ .text.readAverage
+                0x00000000       0x3c ./src/Modules/WEIGHT.o
+ .text.getValue
+                0x00000000       0x30 ./src/Modules/WEIGHT.o
+ .text.getUnits
+                0x00000000       0x64 ./src/Modules/WEIGHT.o
+ .text.tare     0x00000000       0x38 ./src/Modules/WEIGHT.o
+ .text.getWeight
+                0x00000000       0x18 ./src/Modules/WEIGHT.o
+ .debug_macro   0x00000000      0x868 ./src/Modules/WEIGHT.o
+ .debug_macro   0x00000000       0x52 ./src/Modules/WEIGHT.o
+ .debug_macro   0x00000000       0xa0 ./src/Modules/WEIGHT.o
+ .debug_macro   0x00000000       0x16 ./src/Modules/WEIGHT.o
+ .debug_macro   0x00000000       0x19 ./src/Modules/WEIGHT.o
+ .debug_macro   0x00000000       0x64 ./src/Modules/WEIGHT.o
+ .debug_macro   0x00000000      0x185 ./src/Modules/WEIGHT.o
+ .debug_macro   0x00000000      0x140 ./src/Modules/WEIGHT.o
+ .debug_macro   0x00000000       0x9d ./src/Modules/WEIGHT.o
+ .debug_macro   0x00000000       0x10 ./src/Modules/WEIGHT.o
+ .debug_macro   0x00000000      0x15b ./src/Modules/WEIGHT.o
+ .debug_macro   0x00000000       0x28 ./src/Modules/WEIGHT.o
+ .debug_macro   0x00000000       0x58 ./src/Modules/WEIGHT.o
+ .debug_macro   0x00000000     0xecad ./src/Modules/WEIGHT.o
+ COMMON         0x00000000        0x8 ./src/Modules/WEIGHT.o
+ .group         0x00000000        0x8 ./src/Modules/MECANISM.o
+ .group         0x00000000        0x8 ./src/Modules/MECANISM.o
+ .group         0x00000000        0x8 ./src/Modules/MECANISM.o
+ .group         0x00000000        0x8 ./src/Modules/MECANISM.o
+ .group         0x00000000        0x8 ./src/Modules/MECANISM.o
+ .group         0x00000000        0x8 ./src/Modules/MECANISM.o
+ .group         0x00000000        0x8 ./src/Modules/MECANISM.o
+ .group         0x00000000        0x8 ./src/Modules/MECANISM.o
+ .group         0x00000000        0x8 ./src/Modules/MECANISM.o
+ .group         0x00000000        0x8 ./src/Modules/MECANISM.o
+ .group         0x00000000        0x8 ./src/Modules/MECANISM.o
+ .group         0x00000000        0x8 ./src/Modules/MECANISM.o
+ .group         0x00000000        0x8 ./src/Modules/MECANISM.o
+ .group         0x00000000        0x8 ./src/Modules/MECANISM.o
+ .text          0x00000000        0x0 ./src/Modules/MECANISM.o
+ .data          0x00000000        0x0 ./src/Modules/MECANISM.o
+ .bss           0x00000000        0x0 ./src/Modules/MECANISM.o
+ .debug_macro   0x00000000      0x868 ./src/Modules/MECANISM.o
+ .debug_macro   0x00000000       0x52 ./src/Modules/MECANISM.o
+ .debug_macro   0x00000000       0xa0 ./src/Modules/MECANISM.o
+ .debug_macro   0x00000000       0x16 ./src/Modules/MECANISM.o
+ .debug_macro   0x00000000       0x19 ./src/Modules/MECANISM.o
+ .debug_macro   0x00000000       0x64 ./src/Modules/MECANISM.o
+ .debug_macro   0x00000000      0x185 ./src/Modules/MECANISM.o
+ .debug_macro   0x00000000      0x140 ./src/Modules/MECANISM.o
+ .debug_macro   0x00000000       0x9d ./src/Modules/MECANISM.o
+ .debug_macro   0x00000000       0x10 ./src/Modules/MECANISM.o
+ .debug_macro   0x00000000      0x15b ./src/Modules/MECANISM.o
+ .debug_macro   0x00000000       0x28 ./src/Modules/MECANISM.o
+ .debug_macro   0x00000000       0x58 ./src/Modules/MECANISM.o
+ .debug_macro   0x00000000     0xecad ./src/Modules/MECANISM.o
+ .group         0x00000000        0x8 ./src/Modules/BLUETOOTH.o
+ .group         0x00000000        0x8 ./src/Modules/BLUETOOTH.o
+ .group         0x00000000        0x8 ./src/Modules/BLUETOOTH.o
+ .group         0x00000000        0x8 ./src/Modules/BLUETOOTH.o
+ .group         0x00000000        0x8 ./src/Modules/BLUETOOTH.o
+ .group         0x00000000        0x8 ./src/Modules/BLUETOOTH.o
+ .group         0x00000000        0x8 ./src/Modules/BLUETOOTH.o
+ .group         0x00000000        0x8 ./src/Modules/BLUETOOTH.o
+ .group         0x00000000        0x8 ./src/Modules/BLUETOOTH.o
+ .group         0x00000000        0x8 ./src/Modules/BLUETOOTH.o
+ .group         0x00000000        0x8 ./src/Modules/BLUETOOTH.o
+ .group         0x00000000        0x8 ./src/Modules/BLUETOOTH.o
+ .group         0x00000000        0x8 ./src/Modules/BLUETOOTH.o
+ .group         0x00000000        0x8 ./src/Modules/BLUETOOTH.o
+ .text          0x00000000        0x0 ./src/Modules/BLUETOOTH.o
+ .data          0x00000000        0x0 ./src/Modules/BLUETOOTH.o
+ .bss           0x00000000        0x0 ./src/Modules/BLUETOOTH.o
+ .debug_macro   0x00000000      0x868 ./src/Modules/BLUETOOTH.o
+ .debug_macro   0x00000000       0x52 ./src/Modules/BLUETOOTH.o
+ .debug_macro   0x00000000       0xa0 ./src/Modules/BLUETOOTH.o
+ .debug_macro   0x00000000       0x16 ./src/Modules/BLUETOOTH.o
+ .debug_macro   0x00000000       0x19 ./src/Modules/BLUETOOTH.o
+ .debug_macro   0x00000000       0x64 ./src/Modules/BLUETOOTH.o
+ .debug_macro   0x00000000      0x185 ./src/Modules/BLUETOOTH.o
+ .debug_macro   0x00000000      0x140 ./src/Modules/BLUETOOTH.o
+ .debug_macro   0x00000000       0x9d ./src/Modules/BLUETOOTH.o
+ .debug_macro   0x00000000       0x10 ./src/Modules/BLUETOOTH.o
+ .debug_macro   0x00000000      0x15b ./src/Modules/BLUETOOTH.o
+ .debug_macro   0x00000000       0x28 ./src/Modules/BLUETOOTH.o
+ .debug_macro   0x00000000       0x58 ./src/Modules/BLUETOOTH.o
+ .debug_macro   0x00000000     0xecad ./src/Modules/BLUETOOTH.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART2.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART2.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART2.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART2.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART2.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART2.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART2.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART2.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART2.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART2.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART2.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART2.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART2.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART2.o
+ .text          0x00000000        0x0 ./src/Init_Settings/INIT_UART2.o
+ .data          0x00000000        0x0 ./src/Init_Settings/INIT_UART2.o
+ .bss           0x00000000        0x0 ./src/Init_Settings/INIT_UART2.o
+ .debug_macro   0x00000000      0x868 ./src/Init_Settings/INIT_UART2.o
+ .debug_macro   0x00000000       0x52 ./src/Init_Settings/INIT_UART2.o
+ .debug_macro   0x00000000       0xa0 ./src/Init_Settings/INIT_UART2.o
+ .debug_macro   0x00000000       0x16 ./src/Init_Settings/INIT_UART2.o
+ .debug_macro   0x00000000       0x19 ./src/Init_Settings/INIT_UART2.o
+ .debug_macro   0x00000000       0x64 ./src/Init_Settings/INIT_UART2.o
+ .debug_macro   0x00000000      0x185 ./src/Init_Settings/INIT_UART2.o
+ .debug_macro   0x00000000      0x140 ./src/Init_Settings/INIT_UART2.o
+ .debug_macro   0x00000000       0x9d ./src/Init_Settings/INIT_UART2.o
+ .debug_macro   0x00000000       0x10 ./src/Init_Settings/INIT_UART2.o
+ .debug_macro   0x00000000      0x15b ./src/Init_Settings/INIT_UART2.o
+ .debug_macro   0x00000000       0x28 ./src/Init_Settings/INIT_UART2.o
+ .debug_macro   0x00000000       0x58 ./src/Init_Settings/INIT_UART2.o
+ .debug_macro   0x00000000     0xecad ./src/Init_Settings/INIT_UART2.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_UART0.o
+ .text          0x00000000        0x0 ./src/Init_Settings/INIT_UART0.o
+ .data          0x00000000        0x0 ./src/Init_Settings/INIT_UART0.o
+ .bss           0x00000000        0x0 ./src/Init_Settings/INIT_UART0.o
+ .bss.letra_p   0x00000000        0x4 ./src/Init_Settings/INIT_UART0.o
+ .data.arr_message
+                0x00000000        0x1 ./src/Init_Settings/INIT_UART0.o
+ .debug_macro   0x00000000      0x868 ./src/Init_Settings/INIT_UART0.o
+ .debug_macro   0x00000000       0x52 ./src/Init_Settings/INIT_UART0.o
+ .debug_macro   0x00000000       0xa0 ./src/Init_Settings/INIT_UART0.o
+ .debug_macro   0x00000000       0x16 ./src/Init_Settings/INIT_UART0.o
+ .debug_macro   0x00000000       0x19 ./src/Init_Settings/INIT_UART0.o
+ .debug_macro   0x00000000       0x64 ./src/Init_Settings/INIT_UART0.o
+ .debug_macro   0x00000000      0x185 ./src/Init_Settings/INIT_UART0.o
+ .debug_macro   0x00000000      0x140 ./src/Init_Settings/INIT_UART0.o
+ .debug_macro   0x00000000       0x9d ./src/Init_Settings/INIT_UART0.o
+ .debug_macro   0x00000000       0x10 ./src/Init_Settings/INIT_UART0.o
+ .debug_macro   0x00000000      0x15b ./src/Init_Settings/INIT_UART0.o
+ .debug_macro   0x00000000       0x28 ./src/Init_Settings/INIT_UART0.o
+ .debug_macro   0x00000000       0x58 ./src/Init_Settings/INIT_UART0.o
+ .debug_macro   0x00000000     0xecad ./src/Init_Settings/INIT_UART0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_PORTE.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_PORTE.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_PORTE.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_PORTE.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_PORTE.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_PORTE.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_PORTE.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_PORTE.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_PORTE.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_PORTE.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_PORTE.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_PORTE.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_PORTE.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_PORTE.o
+ .text          0x00000000        0x0 ./src/Init_Settings/INIT_PORTE.o
+ .data          0x00000000        0x0 ./src/Init_Settings/INIT_PORTE.o
+ .bss           0x00000000        0x0 ./src/Init_Settings/INIT_PORTE.o
+ .debug_macro   0x00000000      0x868 ./src/Init_Settings/INIT_PORTE.o
+ .debug_macro   0x00000000       0x52 ./src/Init_Settings/INIT_PORTE.o
+ .debug_macro   0x00000000       0xa0 ./src/Init_Settings/INIT_PORTE.o
+ .debug_macro   0x00000000       0x16 ./src/Init_Settings/INIT_PORTE.o
+ .debug_macro   0x00000000       0x19 ./src/Init_Settings/INIT_PORTE.o
+ .debug_macro   0x00000000       0x64 ./src/Init_Settings/INIT_PORTE.o
+ .debug_macro   0x00000000      0x185 ./src/Init_Settings/INIT_PORTE.o
+ .debug_macro   0x00000000      0x140 ./src/Init_Settings/INIT_PORTE.o
+ .debug_macro   0x00000000       0x9d ./src/Init_Settings/INIT_PORTE.o
+ .debug_macro   0x00000000       0x10 ./src/Init_Settings/INIT_PORTE.o
+ .debug_macro   0x00000000      0x15b ./src/Init_Settings/INIT_PORTE.o
+ .debug_macro   0x00000000       0x28 ./src/Init_Settings/INIT_PORTE.o
+ .debug_macro   0x00000000       0x58 ./src/Init_Settings/INIT_PORTE.o
+ .debug_macro   0x00000000     0xecad ./src/Init_Settings/INIT_PORTE.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT1.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT1.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT1.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT1.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT1.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT1.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT1.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT1.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT1.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT1.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT1.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT1.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT1.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT1.o
+ .text          0x00000000        0x0 ./src/Init_Settings/INIT_LPIT1.o
+ .data          0x00000000        0x0 ./src/Init_Settings/INIT_LPIT1.o
+ .bss           0x00000000        0x0 ./src/Init_Settings/INIT_LPIT1.o
+ .debug_macro   0x00000000      0x868 ./src/Init_Settings/INIT_LPIT1.o
+ .debug_macro   0x00000000       0x52 ./src/Init_Settings/INIT_LPIT1.o
+ .debug_macro   0x00000000       0xa0 ./src/Init_Settings/INIT_LPIT1.o
+ .debug_macro   0x00000000       0x16 ./src/Init_Settings/INIT_LPIT1.o
+ .debug_macro   0x00000000       0x19 ./src/Init_Settings/INIT_LPIT1.o
+ .debug_macro   0x00000000       0x64 ./src/Init_Settings/INIT_LPIT1.o
+ .debug_macro   0x00000000      0x185 ./src/Init_Settings/INIT_LPIT1.o
+ .debug_macro   0x00000000      0x140 ./src/Init_Settings/INIT_LPIT1.o
+ .debug_macro   0x00000000       0x9d ./src/Init_Settings/INIT_LPIT1.o
+ .debug_macro   0x00000000       0x10 ./src/Init_Settings/INIT_LPIT1.o
+ .debug_macro   0x00000000      0x15b ./src/Init_Settings/INIT_LPIT1.o
+ .debug_macro   0x00000000       0x28 ./src/Init_Settings/INIT_LPIT1.o
+ .debug_macro   0x00000000       0x58 ./src/Init_Settings/INIT_LPIT1.o
+ .debug_macro   0x00000000     0xecad ./src/Init_Settings/INIT_LPIT1.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_LPIT0.o
+ .text          0x00000000        0x0 ./src/Init_Settings/INIT_LPIT0.o
+ .data          0x00000000        0x0 ./src/Init_Settings/INIT_LPIT0.o
+ .bss           0x00000000        0x0 ./src/Init_Settings/INIT_LPIT0.o
+ .debug_macro   0x00000000      0x868 ./src/Init_Settings/INIT_LPIT0.o
+ .debug_macro   0x00000000       0x52 ./src/Init_Settings/INIT_LPIT0.o
+ .debug_macro   0x00000000       0xa0 ./src/Init_Settings/INIT_LPIT0.o
+ .debug_macro   0x00000000       0x16 ./src/Init_Settings/INIT_LPIT0.o
+ .debug_macro   0x00000000       0x19 ./src/Init_Settings/INIT_LPIT0.o
+ .debug_macro   0x00000000       0x64 ./src/Init_Settings/INIT_LPIT0.o
+ .debug_macro   0x00000000      0x185 ./src/Init_Settings/INIT_LPIT0.o
+ .debug_macro   0x00000000      0x140 ./src/Init_Settings/INIT_LPIT0.o
+ .debug_macro   0x00000000       0x9d ./src/Init_Settings/INIT_LPIT0.o
+ .debug_macro   0x00000000       0x10 ./src/Init_Settings/INIT_LPIT0.o
+ .debug_macro   0x00000000      0x15b ./src/Init_Settings/INIT_LPIT0.o
+ .debug_macro   0x00000000       0x28 ./src/Init_Settings/INIT_LPIT0.o
+ .debug_macro   0x00000000       0x58 ./src/Init_Settings/INIT_LPIT0.o
+ .debug_macro   0x00000000     0xecad ./src/Init_Settings/INIT_LPIT0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_I2C.o
+ .text          0x00000000        0x0 ./src/Init_Settings/INIT_I2C.o
+ .data          0x00000000        0x0 ./src/Init_Settings/INIT_I2C.o
+ .bss           0x00000000        0x0 ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x00000000      0x868 ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x00000000       0x52 ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x00000000       0xa0 ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x00000000       0x16 ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x00000000       0x19 ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x00000000       0x64 ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x00000000      0x185 ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x00000000      0x140 ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x00000000       0x9d ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x00000000       0x10 ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x00000000      0x15b ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x00000000       0x28 ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x00000000       0x58 ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x00000000     0xecad ./src/Init_Settings/INIT_I2C.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM0.o
+ .text          0x00000000        0x0 ./src/Init_Settings/INIT_FTM0.o
+ .data          0x00000000        0x0 ./src/Init_Settings/INIT_FTM0.o
+ .bss           0x00000000        0x0 ./src/Init_Settings/INIT_FTM0.o
+ .debug_macro   0x00000000      0x868 ./src/Init_Settings/INIT_FTM0.o
+ .debug_macro   0x00000000       0x52 ./src/Init_Settings/INIT_FTM0.o
+ .debug_macro   0x00000000       0xa0 ./src/Init_Settings/INIT_FTM0.o
+ .debug_macro   0x00000000       0x16 ./src/Init_Settings/INIT_FTM0.o
+ .debug_macro   0x00000000       0x19 ./src/Init_Settings/INIT_FTM0.o
+ .debug_macro   0x00000000       0x64 ./src/Init_Settings/INIT_FTM0.o
+ .debug_macro   0x00000000      0x185 ./src/Init_Settings/INIT_FTM0.o
+ .debug_macro   0x00000000      0x140 ./src/Init_Settings/INIT_FTM0.o
+ .debug_macro   0x00000000       0x9d ./src/Init_Settings/INIT_FTM0.o
+ .debug_macro   0x00000000       0x10 ./src/Init_Settings/INIT_FTM0.o
+ .debug_macro   0x00000000      0x15b ./src/Init_Settings/INIT_FTM0.o
+ .debug_macro   0x00000000       0x28 ./src/Init_Settings/INIT_FTM0.o
+ .debug_macro   0x00000000       0x58 ./src/Init_Settings/INIT_FTM0.o
+ .debug_macro   0x00000000     0xecad ./src/Init_Settings/INIT_FTM0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_FTM.o
+ .text          0x00000000        0x0 ./src/Init_Settings/INIT_FTM.o
+ .data          0x00000000        0x0 ./src/Init_Settings/INIT_FTM.o
+ .bss           0x00000000        0x0 ./src/Init_Settings/INIT_FTM.o
+ .debug_macro   0x00000000      0x868 ./src/Init_Settings/INIT_FTM.o
+ .debug_macro   0x00000000       0x52 ./src/Init_Settings/INIT_FTM.o
+ .debug_macro   0x00000000       0xa0 ./src/Init_Settings/INIT_FTM.o
+ .debug_macro   0x00000000       0x16 ./src/Init_Settings/INIT_FTM.o
+ .debug_macro   0x00000000       0x19 ./src/Init_Settings/INIT_FTM.o
+ .debug_macro   0x00000000       0x64 ./src/Init_Settings/INIT_FTM.o
+ .debug_macro   0x00000000      0x185 ./src/Init_Settings/INIT_FTM.o
+ .debug_macro   0x00000000      0x140 ./src/Init_Settings/INIT_FTM.o
+ .debug_macro   0x00000000       0x9d ./src/Init_Settings/INIT_FTM.o
+ .debug_macro   0x00000000       0x10 ./src/Init_Settings/INIT_FTM.o
+ .debug_macro   0x00000000      0x15b ./src/Init_Settings/INIT_FTM.o
+ .debug_macro   0x00000000       0x28 ./src/Init_Settings/INIT_FTM.o
+ .debug_macro   0x00000000       0x58 ./src/Init_Settings/INIT_FTM.o
+ .debug_macro   0x00000000     0xecad ./src/Init_Settings/INIT_FTM.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_ADC0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_ADC0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_ADC0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_ADC0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_ADC0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_ADC0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_ADC0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_ADC0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_ADC0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_ADC0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_ADC0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_ADC0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_ADC0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT_ADC0.o
+ .text          0x00000000        0x0 ./src/Init_Settings/INIT_ADC0.o
+ .data          0x00000000        0x0 ./src/Init_Settings/INIT_ADC0.o
+ .bss           0x00000000        0x0 ./src/Init_Settings/INIT_ADC0.o
+ .debug_macro   0x00000000      0x868 ./src/Init_Settings/INIT_ADC0.o
+ .debug_macro   0x00000000       0x52 ./src/Init_Settings/INIT_ADC0.o
+ .debug_macro   0x00000000       0xa0 ./src/Init_Settings/INIT_ADC0.o
+ .debug_macro   0x00000000       0x16 ./src/Init_Settings/INIT_ADC0.o
+ .debug_macro   0x00000000       0x19 ./src/Init_Settings/INIT_ADC0.o
+ .debug_macro   0x00000000       0x64 ./src/Init_Settings/INIT_ADC0.o
+ .debug_macro   0x00000000      0x185 ./src/Init_Settings/INIT_ADC0.o
+ .debug_macro   0x00000000      0x140 ./src/Init_Settings/INIT_ADC0.o
+ .debug_macro   0x00000000       0x9d ./src/Init_Settings/INIT_ADC0.o
+ .debug_macro   0x00000000       0x10 ./src/Init_Settings/INIT_ADC0.o
+ .debug_macro   0x00000000      0x15b ./src/Init_Settings/INIT_ADC0.o
+ .debug_macro   0x00000000       0x28 ./src/Init_Settings/INIT_ADC0.o
+ .debug_macro   0x00000000       0x58 ./src/Init_Settings/INIT_ADC0.o
+ .debug_macro   0x00000000     0xecad ./src/Init_Settings/INIT_ADC0.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT.o
+ .group         0x00000000        0x8 ./src/Init_Settings/INIT.o
+ .text          0x00000000        0x0 ./src/Init_Settings/INIT.o
+ .data          0x00000000        0x0 ./src/Init_Settings/INIT.o
+ .bss           0x00000000        0x0 ./src/Init_Settings/INIT.o
+ .debug_macro   0x00000000      0x868 ./src/Init_Settings/INIT.o
+ .debug_macro   0x00000000       0x52 ./src/Init_Settings/INIT.o
+ .debug_macro   0x00000000       0xa0 ./src/Init_Settings/INIT.o
+ .debug_macro   0x00000000       0x16 ./src/Init_Settings/INIT.o
+ .debug_macro   0x00000000       0x19 ./src/Init_Settings/INIT.o
+ .debug_macro   0x00000000       0x64 ./src/Init_Settings/INIT.o
+ .debug_macro   0x00000000      0x185 ./src/Init_Settings/INIT.o
+ .debug_macro   0x00000000      0x140 ./src/Init_Settings/INIT.o
+ .debug_macro   0x00000000       0x9d ./src/Init_Settings/INIT.o
+ .debug_macro   0x00000000       0x10 ./src/Init_Settings/INIT.o
+ .debug_macro   0x00000000      0x15b ./src/Init_Settings/INIT.o
+ .debug_macro   0x00000000       0x28 ./src/Init_Settings/INIT.o
+ .debug_macro   0x00000000       0x58 ./src/Init_Settings/INIT.o
+ .debug_macro   0x00000000     0xecad ./src/Init_Settings/INIT.o
+ .group         0x00000000        0x8 ./src/Functions/SEMIAUTOMATICO.o
+ .group         0x00000000        0x8 ./src/Functions/SEMIAUTOMATICO.o
+ .group         0x00000000        0x8 ./src/Functions/SEMIAUTOMATICO.o
+ .group         0x00000000        0x8 ./src/Functions/SEMIAUTOMATICO.o
+ .group         0x00000000        0x8 ./src/Functions/SEMIAUTOMATICO.o
+ .group         0x00000000        0x8 ./src/Functions/SEMIAUTOMATICO.o
+ .group         0x00000000        0x8 ./src/Functions/SEMIAUTOMATICO.o
+ .group         0x00000000        0x8 ./src/Functions/SEMIAUTOMATICO.o
+ .group         0x00000000        0x8 ./src/Functions/SEMIAUTOMATICO.o
+ .group         0x00000000        0x8 ./src/Functions/SEMIAUTOMATICO.o
+ .group         0x00000000        0x8 ./src/Functions/SEMIAUTOMATICO.o
+ .group         0x00000000        0x8 ./src/Functions/SEMIAUTOMATICO.o
+ .group         0x00000000        0x8 ./src/Functions/SEMIAUTOMATICO.o
+ .group         0x00000000        0x8 ./src/Functions/SEMIAUTOMATICO.o
+ .text          0x00000000        0x0 ./src/Functions/SEMIAUTOMATICO.o
+ .data          0x00000000        0x0 ./src/Functions/SEMIAUTOMATICO.o
+ .bss           0x00000000        0x0 ./src/Functions/SEMIAUTOMATICO.o
+ .bss.error_time
+                0x00000000        0x4 ./src/Functions/SEMIAUTOMATICO.o
+ .debug_macro   0x00000000      0x868 ./src/Functions/SEMIAUTOMATICO.o
+ .debug_macro   0x00000000       0x52 ./src/Functions/SEMIAUTOMATICO.o
+ .debug_macro   0x00000000       0xa0 ./src/Functions/SEMIAUTOMATICO.o
+ .debug_macro   0x00000000       0x16 ./src/Functions/SEMIAUTOMATICO.o
+ .debug_macro   0x00000000       0x19 ./src/Functions/SEMIAUTOMATICO.o
+ .debug_macro   0x00000000       0x64 ./src/Functions/SEMIAUTOMATICO.o
+ .debug_macro   0x00000000      0x185 ./src/Functions/SEMIAUTOMATICO.o
+ .debug_macro   0x00000000      0x140 ./src/Functions/SEMIAUTOMATICO.o
+ .debug_macro   0x00000000       0x9d ./src/Functions/SEMIAUTOMATICO.o
+ .debug_macro   0x00000000       0x10 ./src/Functions/SEMIAUTOMATICO.o
+ .debug_macro   0x00000000      0x15b ./src/Functions/SEMIAUTOMATICO.o
+ .debug_macro   0x00000000       0x28 ./src/Functions/SEMIAUTOMATICO.o
+ .debug_macro   0x00000000       0x58 ./src/Functions/SEMIAUTOMATICO.o
+ .debug_macro   0x00000000     0xecad ./src/Functions/SEMIAUTOMATICO.o
+ .group         0x00000000        0x8 ./src/Functions/MANUAL.o
+ .group         0x00000000        0x8 ./src/Functions/MANUAL.o
+ .group         0x00000000        0x8 ./src/Functions/MANUAL.o
+ .group         0x00000000        0x8 ./src/Functions/MANUAL.o
+ .group         0x00000000        0x8 ./src/Functions/MANUAL.o
+ .group         0x00000000        0x8 ./src/Functions/MANUAL.o
+ .group         0x00000000        0x8 ./src/Functions/MANUAL.o
+ .group         0x00000000        0x8 ./src/Functions/MANUAL.o
+ .group         0x00000000        0x8 ./src/Functions/MANUAL.o
+ .group         0x00000000        0x8 ./src/Functions/MANUAL.o
+ .group         0x00000000        0x8 ./src/Functions/MANUAL.o
+ .group         0x00000000        0x8 ./src/Functions/MANUAL.o
+ .group         0x00000000        0x8 ./src/Functions/MANUAL.o
+ .group         0x00000000        0x8 ./src/Functions/MANUAL.o
+ .text          0x00000000        0x0 ./src/Functions/MANUAL.o
+ .data          0x00000000        0x0 ./src/Functions/MANUAL.o
+ .bss           0x00000000        0x0 ./src/Functions/MANUAL.o
+ .debug_macro   0x00000000      0x868 ./src/Functions/MANUAL.o
+ .debug_macro   0x00000000       0x52 ./src/Functions/MANUAL.o
+ .debug_macro   0x00000000       0xa0 ./src/Functions/MANUAL.o
+ .debug_macro   0x00000000       0x16 ./src/Functions/MANUAL.o
+ .debug_macro   0x00000000       0x19 ./src/Functions/MANUAL.o
+ .debug_macro   0x00000000       0x64 ./src/Functions/MANUAL.o
+ .debug_macro   0x00000000      0x185 ./src/Functions/MANUAL.o
+ .debug_macro   0x00000000      0x140 ./src/Functions/MANUAL.o
+ .debug_macro   0x00000000       0x9d ./src/Functions/MANUAL.o
+ .debug_macro   0x00000000       0x10 ./src/Functions/MANUAL.o
+ .debug_macro   0x00000000      0x15b ./src/Functions/MANUAL.o
+ .debug_macro   0x00000000       0x28 ./src/Functions/MANUAL.o
+ .debug_macro   0x00000000       0x58 ./src/Functions/MANUAL.o
+ .debug_macro   0x00000000     0xecad ./src/Functions/MANUAL.o
+ .group         0x00000000        0x8 ./src/Functions/LINE_TRACKER.o
+ .group         0x00000000        0x8 ./src/Functions/LINE_TRACKER.o
+ .group         0x00000000        0x8 ./src/Functions/LINE_TRACKER.o
+ .group         0x00000000        0x8 ./src/Functions/LINE_TRACKER.o
+ .group         0x00000000        0x8 ./src/Functions/LINE_TRACKER.o
+ .group         0x00000000        0x8 ./src/Functions/LINE_TRACKER.o
+ .group         0x00000000        0x8 ./src/Functions/LINE_TRACKER.o
+ .group         0x00000000        0x8 ./src/Functions/LINE_TRACKER.o
+ .group         0x00000000        0x8 ./src/Functions/LINE_TRACKER.o
+ .group         0x00000000        0x8 ./src/Functions/LINE_TRACKER.o
+ .group         0x00000000        0x8 ./src/Functions/LINE_TRACKER.o
+ .group         0x00000000        0x8 ./src/Functions/LINE_TRACKER.o
+ .group         0x00000000        0x8 ./src/Functions/LINE_TRACKER.o
+ .group         0x00000000        0x8 ./src/Functions/LINE_TRACKER.o
+ .text          0x00000000        0x0 ./src/Functions/LINE_TRACKER.o
+ .data          0x00000000        0x0 ./src/Functions/LINE_TRACKER.o
+ .bss           0x00000000        0x0 ./src/Functions/LINE_TRACKER.o
+ .data.CONTROL  0x00000000        0x4 ./src/Functions/LINE_TRACKER.o
+ .data.pwm_front_left
+                0x00000000        0x4 ./src/Functions/LINE_TRACKER.o
+ .data.pwm_front_right
+                0x00000000        0x4 ./src/Functions/LINE_TRACKER.o
+ .debug_macro   0x00000000      0x868 ./src/Functions/LINE_TRACKER.o
+ .debug_macro   0x00000000       0x52 ./src/Functions/LINE_TRACKER.o
+ .debug_macro   0x00000000       0xa0 ./src/Functions/LINE_TRACKER.o
+ .debug_macro   0x00000000       0x16 ./src/Functions/LINE_TRACKER.o
+ .debug_macro   0x00000000       0x19 ./src/Functions/LINE_TRACKER.o
+ .debug_macro   0x00000000       0x64 ./src/Functions/LINE_TRACKER.o
+ .debug_macro   0x00000000      0x185 ./src/Functions/LINE_TRACKER.o
+ .debug_macro   0x00000000      0x140 ./src/Functions/LINE_TRACKER.o
+ .debug_macro   0x00000000       0x9d ./src/Functions/LINE_TRACKER.o
+ .debug_macro   0x00000000       0x10 ./src/Functions/LINE_TRACKER.o
+ .debug_macro   0x00000000      0x15b ./src/Functions/LINE_TRACKER.o
+ .debug_macro   0x00000000       0x28 ./src/Functions/LINE_TRACKER.o
+ .debug_macro   0x00000000       0x58 ./src/Functions/LINE_TRACKER.o
+ .debug_macro   0x00000000     0xecad ./src/Functions/LINE_TRACKER.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/system_S32K144.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/system_S32K144.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/system_S32K144.o
+ .data.SystemCoreClock
+                0x00000000        0x4 ./Project_Settings/Startup_Code/system_S32K144.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0xf4 ./Project_Settings/Startup_Code/system_S32K144.o
+ .text.SystemSoftwareReset
+                0x00000000       0x40 ./Project_Settings/Startup_Code/system_S32K144.o
+ .rodata.fircFreq.5157
+                0x00000000       0x10 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000      0x868 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0x52 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0xa0 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0x16 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0x19 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0x64 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000      0x185 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000      0x140 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0x9d ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0x10 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000      0x15b ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0x28 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0x58 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000     0xecad ./Project_Settings/Startup_Code/system_S32K144.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000      0x868 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000       0x52 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000       0xa0 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000       0x16 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000       0x10 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000       0x6d ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000       0x19 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000       0x64 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000      0x185 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000      0x140 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000       0x9d ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000       0x10 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000      0x15b ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000       0x28 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000       0x58 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000     0xecad ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000      0xa19 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000       0x22 ./Project_Settings/Startup_Code/startup.o
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .text.exit     0x00000000       0x38 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .text._Exit    0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .bss.__stdio_exit
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .bss.__console_exit
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .debug_info    0x00000000      0x111 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .debug_abbrev  0x00000000       0x91 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .debug_loc     0x00000000       0x5d C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .debug_aranges
+                0x00000000       0x28 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .debug_line    0x00000000       0xa4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .debug_str     0x00000000      0x23c C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .debug_frame   0x00000000       0x3c C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(exit.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .text.memset   0x00000000        0xc C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .debug_info    0x00000000       0xec C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .debug_abbrev  0x00000000       0x62 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .debug_loc     0x00000000       0x64 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .debug_aranges
+                0x00000000       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .debug_line    0x00000000       0x8f C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .debug_str     0x00000000      0x21f C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .debug_frame   0x00000000       0x28 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(memset.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .text.__fill_mem
+                0x00000000       0x7a C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .debug_info    0x00000000      0x137 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .debug_abbrev  0x00000000       0x78 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .debug_loc     0x00000000      0x16b C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .debug_aranges
+                0x00000000       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .debug_line    0x00000000       0xb2 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .debug_str     0x00000000      0x231 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .debug_frame   0x00000000       0x28 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(__filll_mem.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_pow.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_pow.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_pow.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_sqrt.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_sqrt.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_sqrt.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_pow.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_pow.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_pow.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_sqrt.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_sqrt.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_sqrt.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .data.__extended_tiny
+                0x00000000        0x8 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .data.__double_epsilon
+                0x00000000        0x8 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .data.__double_huge
+                0x00000000        0x8 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .data.__float_huge
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .data.__float_min
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .data.__float_max
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .data.__float_epsilon
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .data.__extended_nan
+                0x00000000        0x8 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .data.__extended_epsilon
+                0x00000000        0x8 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .data.__extended_huge
+                0x00000000        0x8 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .data.__double_min
+                0x00000000        0x8 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .data.__extended_min
+                0x00000000        0x8 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .data.__double_tiny
+                0x00000000        0x8 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .data.__double_max
+                0x00000000        0x8 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .data.__float_nan
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .data.__extended_max
+                0x00000000        0x8 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o)
+ .text.__ewl_generic_count_bits32
+                0x00000000       0x28 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o)
+ .text.__ewl_generic_count_leading_zero32
+                0x00000000       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o)
+ .text.__ewl_generic_count_bits64
+                0x00000000       0x6a C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o)
+ .text.__ewl_generic_count_leading_zero64
+                0x00000000       0x4e C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o)
+ .text.__signbitf
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o)
+ .text.__fpclassifyf
+                0x00000000       0x2c C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o)
+ .text.__signbitd
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o)
+ .text.__ewl_relation
+                0x00000000       0x4a C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(scalbn.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(scalbn.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(scalbn.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_frexp.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_frexp.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_frexp.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_ldexp.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_ldexp.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_ldexp.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+ .text          0x00000000       0x50 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_truncdfsf2.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_muldivsf3.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_fixsfsi.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_fixsfsi.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .text.__init_cpp
+                0x00000000       0x4c C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .text.__fini_cpp
+                0x00000000       0x34 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .text._ExitProcess
+                0x00000000        0x2 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .bss.__dso_handle
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .debug_info    0x00000000      0x14a C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .debug_abbrev  0x00000000       0xae C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .debug_loc     0x00000000       0x9d C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .debug_aranges
+                0x00000000       0x30 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .debug_line    0x00000000       0x74 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .debug_str     0x00000000      0x28e C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .debug_frame   0x00000000       0x50 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text.__destroy_global_chain
+                0x00000000       0x18 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text.__register_global_object
+                0x00000000       0x14 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text.__cxa_atexit
+                0x00000000       0x38 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text.__aeabi_atexit
+                0x00000000        0xa C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text.__register_atexit
+                0x00000000        0x8 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text.__init_registers
+                0x00000000       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text.__init_hardware
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text.__init_user
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .bss.atexit_curr_func
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .bss.atexit_funcs
+                0x00000000      0x300 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .bss.__global_destructor_chain
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .debug_info    0x00000000      0x2b3 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .debug_abbrev  0x00000000      0x1d3 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .debug_loc     0x00000000      0x144 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .debug_aranges
+                0x00000000       0x58 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .debug_line    0x00000000      0x107 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .debug_str     0x00000000      0x2b5 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .debug_frame   0x00000000       0xac C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .text.__flush_cache
+                0x00000000        0x2 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .text.__copy_rom_section
+                0x00000000       0x42 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .text.__copy_rom_sections_to_ram
+                0x00000000       0x28 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .debug_info    0x00000000      0x20e C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .debug_abbrev  0x00000000      0x11f C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .debug_loc     0x00000000       0xb3 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .debug_aranges
+                0x00000000       0x30 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .debug_line    0x00000000       0x9e C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .debug_str     0x00000000      0x233 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .debug_frame   0x00000000       0x48 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a(ROMCopy.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(errno.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(errno.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(errno.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .text.__ewl_count_bits32
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .text.__ewl_count_leading_zero32
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .text.__ewl_count_trailing_zero32
+                0x00000000        0xa C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .text.__ewl_count_leading_one32
+                0x00000000        0x6 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .text.__ewl_count_trailing_one32
+                0x00000000        0x6 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .text.__ewl_rotate_left32
+                0x00000000        0xc C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .text.__ewl_rotate_right32
+                0x00000000        0x8 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .text.__ewl_count_bits64
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .text.__ewl_count_leading_zero64
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .text.__ewl_count_trailing_zero64
+                0x00000000       0x16 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .text.__ewl_count_leading_one64
+                0x00000000        0x8 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .text.__ewl_count_trailing_one64
+                0x00000000        0x8 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .text.__ewl_rotate_left64
+                0x00000000       0x2c C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .text.__ewl_rotate_right64
+                0x00000000       0x2c C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .text.log2     0x00000000       0x18 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .text.scalbln  0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .text.nan      0x00000000        0x2 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .rodata.f.4671
+                0x00000000        0x8 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .debug_info    0x00000000      0x409 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .debug_abbrev  0x00000000       0xf0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .debug_loc     0x00000000      0x25b C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .debug_aranges
+                0x00000000       0xa0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .debug_line    0x00000000      0x1ad C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .debug_str     0x00000000      0x393 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .debug_frame   0x00000000      0x148 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(math_ARM.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_log.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_log.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_log.o)
+ .text.log      0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_log.o)
+ .debug_info    0x00000000       0xb2 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_log.o)
+ .debug_abbrev  0x00000000       0x59 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_log.o)
+ .debug_loc     0x00000000       0x18 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_log.o)
+ .debug_aranges
+                0x00000000       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_log.o)
+ .debug_line    0x00000000       0x70 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_log.o)
+ .debug_str     0x00000000      0x204 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_log.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_log.o)
+ .debug_frame   0x00000000       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_log.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_log.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_log.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_log.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_log.o)
+ .text.__ieee754_log
+                0x00000000      0x3d8 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_log.o)
+ .debug_info    0x00000000      0x300 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_log.o)
+ .debug_abbrev  0x00000000       0xfb C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_log.o)
+ .debug_loc     0x00000000      0x2c2 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_log.o)
+ .debug_aranges
+                0x00000000       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_log.o)
+ .debug_line    0x00000000      0x103 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_log.o)
+ .debug_str     0x00000000      0x262 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_log.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_log.o)
+ .debug_frame   0x00000000       0x40 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_log.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_log.o)
+ .text          0x00000000       0x18 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_lshrdi3.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_lshrdi3.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_lshrdi3.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_lshrdi3.o)
+ .text          0x00000000       0x18 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_ashldi3.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_ashldi3.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_ashldi3.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_ashldi3.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+ .text._ExitProcess
+                0x00000000        0x2 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+ .debug_info    0x00000000       0x4e C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+ .debug_abbrev  0x00000000       0x4a C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+ .debug_aranges
+                0x00000000       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+ .debug_line    0x00000000       0x45 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+ .debug_str     0x00000000      0x1a7 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+ .debug_frame   0x00000000       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+ .ARM.attributes
+                0x00000000       0x33 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_interrupts     0x00000000         0x00000400         xr
+m_flash_config   0x00000400         0x00000010         xr
+m_text           0x00000410         0x0007fbf0         xr
+m_data           0x1fff8000         0x00008000         rw
+m_data_2         0x20000000         0x00007000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+LOAD ./src/main.o
+LOAD ./src/Modules/WEIGHT.o
+LOAD ./src/Modules/MECANISM.o
+LOAD ./src/Modules/BLUETOOTH.o
+LOAD ./src/Init_Settings/INIT_UART2.o
+LOAD ./src/Init_Settings/INIT_UART0.o
+LOAD ./src/Init_Settings/INIT_PORTE.o
+LOAD ./src/Init_Settings/INIT_LPIT1.o
+LOAD ./src/Init_Settings/INIT_LPIT0.o
+LOAD ./src/Init_Settings/INIT_I2C.o
+LOAD ./src/Init_Settings/INIT_FTM0.o
+LOAD ./src/Init_Settings/INIT_FTM.o
+LOAD ./src/Init_Settings/INIT_ADC0.o
+LOAD ./src/Init_Settings/INIT.o
+LOAD ./src/Functions/SEMIAUTOMATICO.o
+LOAD ./src/Functions/MANUAL.o
+LOAD ./src/Functions/LINE_TRACKER.o
+LOAD ./Project_Settings/Startup_Code/system_S32K144.o
+LOAD ./Project_Settings/Startup_Code/startup_S32K144.o
+LOAD ./Project_Settings/Startup_Code/startup.o
+START GROUP
+LOAD C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a
+LOAD C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a
+LOAD c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a
+LOAD C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\librt.a
+LOAD C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libnoio.a
+END GROUP
+LOAD C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_end.o
+                0x00000400                HEAP_SIZE = DEFINED (__heap_size__)?__heap_size__:0x400
+                0x00000400                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x400
+                0x00000400                M_VECTOR_RAM_SIZE = DEFINED (__flash_vector_table__)?0x0:0x400
+
+.interrupts     0x00000000      0x400
+                0x00000000                __VECTOR_TABLE = .
+                0x00000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x00000000      0x400 ./Project_Settings/Startup_Code/startup_S32K144.o
+                0x00000000                __isr_vector
+                0x00000400                . = ALIGN (0x4)
+
+.flash_config   0x00000400       0x10
+                0x00000400                . = ALIGN (0x4)
+ *(.FlashConfig)
+ .FlashConfig   0x00000400       0x10 ./Project_Settings/Startup_Code/startup_S32K144.o
+                0x00000410                . = ALIGN (0x4)
+
+.text           0x00000410     0x3d38
+                0x00000410                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000410       0x44 ./Project_Settings/Startup_Code/startup_S32K144.o
+                0x00000410                Reset_Handler
+                0x00000450                DebugMon_Handler
+                0x00000450                Reserved88_IRQHandler
+                0x00000450                CAN0_ORed_IRQHandler
+                0x00000450                HardFault_Handler
+                0x00000450                Reserved86_IRQHandler
+                0x00000450                Reserved103_IRQHandler
+                0x00000450                SysTick_Handler
+                0x00000450                FTM2_Ovf_Reload_IRQHandler
+                0x00000450                Reserved50_IRQHandler
+                0x00000450                FTFC_Fault_IRQHandler
+                0x00000450                FTM0_Ch6_Ch7_IRQHandler
+                0x00000450                Reserved114_IRQHandler
+                0x00000450                PendSV_Handler
+                0x00000450                NMI_Handler
+                0x00000450                Reserved89_IRQHandler
+                0x00000450                ERM_double_fault_IRQHandler
+                0x00000450                DMA2_IRQHandler
+                0x00000450                Reserved59_IRQHandler
+                0x00000450                Reserved99_IRQHandler
+                0x00000450                FTM3_Ch6_Ch7_IRQHandler
+                0x00000450                CAN2_ORed_0_15_MB_IRQHandler
+                0x00000450                LPIT0_Ch3_IRQHandler
+                0x00000450                Reserved92_IRQHandler
+                0x00000450                FTM0_Ch4_Ch5_IRQHandler
+                0x00000450                CAN1_Error_IRQHandler
+                0x00000450                FTM3_Ch0_Ch1_IRQHandler
+                0x00000450                SWI_IRQHandler
+                0x00000450                ADC0_IRQHandler
+                0x00000450                FTM2_Ch4_Ch5_IRQHandler
+                0x00000450                UsageFault_Handler
+                0x00000450                DefaultISR
+                0x00000450                DMA9_IRQHandler
+                0x00000450                Reserved58_IRQHandler
+                0x00000450                CAN1_ORed_0_15_MB_IRQHandler
+                0x00000450                FTM1_Ch2_Ch3_IRQHandler
+                0x00000450                DMA14_IRQHandler
+                0x00000450                Reserved82_IRQHandler
+                0x00000450                CAN0_ORed_16_31_MB_IRQHandler
+                0x00000450                LPI2C0_Slave_IRQHandler
+                0x00000450                Reserved71_IRQHandler
+                0x00000450                PORTD_IRQHandler
+                0x00000450                Reserved69_IRQHandler
+                0x00000450                PORTB_IRQHandler
+                0x00000450                Reserved70_IRQHandler
+                0x00000450                ADC1_IRQHandler
+                0x00000450                FTM2_Ch2_Ch3_IRQHandler
+                0x00000450                Reserved53_IRQHandler
+                0x00000450                DMA5_IRQHandler
+                0x00000450                RTC_IRQHandler
+                0x00000450                PDB0_IRQHandler
+                0x00000450                Reserved54_IRQHandler
+                0x00000450                FTM2_Ch6_Ch7_IRQHandler
+                0x00000450                FTM3_Ch2_Ch3_IRQHandler
+                0x00000450                FTM2_Ch0_Ch1_IRQHandler
+                0x00000450                LPSPI1_IRQHandler
+                0x00000450                LPUART1_RxTx_IRQHandler
+                0x00000450                RTC_Seconds_IRQHandler
+                0x00000450                CAN2_ORed_IRQHandler
+                0x00000450                Reserved72_IRQHandler
+                0x00000450                Reserved110_IRQHandler
+                0x00000450                DMA11_IRQHandler
+                0x00000450                Reserved107_IRQHandler
+                0x00000450                Read_Collision_IRQHandler
+                0x00000450                CAN2_Error_IRQHandler
+                0x00000450                FTFC_IRQHandler
+                0x00000450                DMA7_IRQHandler
+                0x00000450                FTM1_Ch6_Ch7_IRQHandler
+                0x00000450                Reserved105_IRQHandler
+                0x00000450                FTM1_Ch4_Ch5_IRQHandler
+                0x00000450                FTM3_Ovf_Reload_IRQHandler
+                0x00000450                LPSPI0_IRQHandler
+                0x00000450                WDOG_EWM_IRQHandler
+                0x00000450                MemManage_Handler
+                0x00000450                Reserved90_IRQHandler
+                0x00000450                Reserved83_IRQHandler
+                0x00000450                FTM0_Fault_IRQHandler
+                0x00000450                Reserved48_IRQHandler
+                0x00000450                SVC_Handler
+                0x00000450                ERM_single_fault_IRQHandler
+                0x00000450                FTM2_Fault_IRQHandler
+                0x00000450                FTM0_Ch2_Ch3_IRQHandler
+                0x00000450                DMA13_IRQHandler
+                0x00000450                FTM3_Fault_IRQHandler
+                0x00000450                RCM_IRQHandler
+                0x00000450                DMA3_IRQHandler
+                0x00000450                Reserved100_IRQHandler
+                0x00000450                DMA0_IRQHandler
+                0x00000450                Reserved91_IRQHandler
+                0x00000450                CAN1_ORed_IRQHandler
+                0x00000450                DMA15_IRQHandler
+                0x00000450                SCG_IRQHandler
+                0x00000450                PDB1_IRQHandler
+                0x00000450                Reserved81_IRQHandler
+                0x00000450                Reserved46_IRQHandler
+                0x00000450                Reserved45_IRQHandler
+                0x00000450                CAN0_Error_IRQHandler
+                0x00000450                Reserved112_IRQHandler
+                0x00000450                LPI2C0_Master_IRQHandler
+                0x00000450                DMA4_IRQHandler
+                0x00000450                FTM1_Fault_IRQHandler
+                0x00000450                Reserved106_IRQHandler
+                0x00000450                DMA_Error_IRQHandler
+                0x00000450                LVD_LVW_IRQHandler
+                0x00000450                LPIT0_Ch2_IRQHandler
+                0x00000450                PORTA_IRQHandler
+                0x00000450                MCM_IRQHandler
+                0x00000450                LPSPI2_IRQHandler
+                0x00000450                DMA12_IRQHandler
+                0x00000450                FTM3_Ch4_Ch5_IRQHandler
+                0x00000450                CAN0_ORed_0_15_MB_IRQHandler
+                0x00000450                LPTMR0_IRQHandler
+                0x00000450                BusFault_Handler
+                0x00000450                Reserved87_IRQHandler
+                0x00000450                FTM1_Ovf_Reload_IRQHandler
+                0x00000450                DMA8_IRQHandler
+                0x00000450                Reserved93_IRQHandler
+                0x00000450                DMA10_IRQHandler
+                0x00000450                CAN0_Wake_Up_IRQHandler
+                0x00000450                CMP0_IRQHandler
+                0x00000450                Reserved52_IRQHandler
+                0x00000450                PORTC_IRQHandler
+                0x00000450                DMA6_IRQHandler
+                0x00000450                FTM1_Ch0_Ch1_IRQHandler
+                0x00000450                FLEXIO_IRQHandler
+                0x00000450                DMA1_IRQHandler
+                0x00000450                Reserved113_IRQHandler
+ .text          0x00000454      0x370 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+                0x00000454                __aeabi_drsub
+                0x0000045c                __aeabi_dsub
+                0x0000045c                __subdf3
+                0x00000460                __aeabi_dadd
+                0x00000460                __adddf3
+                0x000006d8                __floatunsidf
+                0x000006d8                __aeabi_ui2d
+                0x000006f8                __floatsidf
+                0x000006f8                __aeabi_i2d
+                0x0000071c                __aeabi_f2d
+                0x0000071c                __extendsfdf2
+                0x00000758                __floatundidf
+                0x00000758                __aeabi_ul2d
+                0x00000768                __floatdidf
+                0x00000768                __aeabi_l2d
+ .text          0x000007c4      0x424 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+                0x000007c4                __aeabi_dmul
+                0x000007c4                __muldf3
+                0x00000a18                __divdf3
+                0x00000a18                __aeabi_ddiv
+ .text          0x00000be8      0x110 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+                0x00000be8                __gtdf2
+                0x00000be8                __gedf2
+                0x00000bf0                __ltdf2
+                0x00000bf0                __ledf2
+                0x00000bf8                __nedf2
+                0x00000bf8                __eqdf2
+                0x00000bf8                __cmpdf2
+                0x00000c74                __aeabi_cdrcmple
+                0x00000c84                __aeabi_cdcmpeq
+                0x00000c84                __aeabi_cdcmple
+                0x00000c94                __aeabi_dcmpeq
+                0x00000ca8                __aeabi_dcmplt
+                0x00000cbc                __aeabi_dcmple
+                0x00000cd0                __aeabi_dcmpge
+                0x00000ce4                __aeabi_dcmpgt
+ .text          0x00000cf8       0xa0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_truncdfsf2.o)
+                0x00000cf8                __truncdfsf2
+                0x00000cf8                __aeabi_d2f
+ .text          0x00000d98      0x21c c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+                0x00000d98                __aeabi_frsub
+                0x00000da0                __subsf3
+                0x00000da0                __aeabi_fsub
+                0x00000da4                __aeabi_fadd
+                0x00000da4                __addsf3
+                0x00000f04                __aeabi_ui2f
+                0x00000f04                __floatunsisf
+                0x00000f0c                __aeabi_i2f
+                0x00000f0c                __floatsisf
+                0x00000f28                __aeabi_ul2f
+                0x00000f28                __floatundisf
+                0x00000f38                __aeabi_l2f
+                0x00000f38                __floatdisf
+ .text          0x00000fb4      0x2a0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_muldivsf3.o)
+                0x00000fb4                __mulsf3
+                0x00000fb4                __aeabi_fmul
+                0x0000111c                __aeabi_fdiv
+                0x0000111c                __divsf3
+ .text          0x00001254       0xec c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+                0x00001254                __gesf2
+                0x00001254                __gtsf2
+                0x0000125c                __lesf2
+                0x0000125c                __ltsf2
+                0x00001264                __nesf2
+                0x00001264                __eqsf2
+                0x00001264                __cmpsf2
+                0x000012c4                __aeabi_cfrcmple
+                0x000012cc                __aeabi_cfcmpeq
+                0x000012cc                __aeabi_cfcmple
+                0x000012dc                __aeabi_fcmpeq
+                0x000012f0                __aeabi_fcmplt
+                0x00001304                __aeabi_fcmple
+                0x00001318                __aeabi_fcmpge
+                0x0000132c                __aeabi_fcmpgt
+ .text          0x00001340       0x4c c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_fixsfsi.o)
+                0x00001340                __aeabi_f2iz
+                0x00001340                __fixsfsi
+ *(.text*)
+ .text.main     0x0000138c       0x2c ./src/main.o
+                0x0000138c                main
+ .text.mecanismUp
+                0x000013b8       0x2c ./src/Modules/MECANISM.o
+                0x000013b8                mecanismUp
+ .text.mecanismDown
+                0x000013e4       0x2c ./src/Modules/MECANISM.o
+                0x000013e4                mecanismDown
+ .text.mecanismStop
+                0x00001410       0x1c ./src/Modules/MECANISM.o
+                0x00001410                mecanismStop
+ .text.mecanism
+                0x0000142c      0x110 ./src/Modules/MECANISM.o
+                0x0000142c                mecanism
+ .text.sensorCurrent
+                0x0000153c       0x64 ./src/Modules/BLUETOOTH.o
+                0x0000153c                sensorCurrent
+ .text.sensorVoltage
+                0x000015a0       0x64 ./src/Modules/BLUETOOTH.o
+                0x000015a0                sensorVoltage
+ .text.sensorRev1
+                0x00001604       0x64 ./src/Modules/BLUETOOTH.o
+                0x00001604                sensorRev1
+ .text.sensorRev2
+                0x00001668       0x64 ./src/Modules/BLUETOOTH.o
+                0x00001668                sensorRev2
+ .text.sensorVelocity
+                0x000016cc       0x64 ./src/Modules/BLUETOOTH.o
+                0x000016cc                sensorVelocity
+ .text.sensorOrientation
+                0x00001730       0x64 ./src/Modules/BLUETOOTH.o
+                0x00001730                sensorOrientation
+ .text.sendBluetooth
+                0x00001794       0x58 ./src/Modules/BLUETOOTH.o
+                0x00001794                sendBluetooth
+ .text.initUART2
+                0x000017ec       0x4c ./src/Init_Settings/INIT_UART2.o
+                0x000017ec                initUART2
+ .text.assignData
+                0x00001838       0x40 ./src/Init_Settings/INIT_UART2.o
+                0x00001838                assignData
+ .text.sendCommand
+                0x00001878       0x80 ./src/Init_Settings/INIT_UART2.o
+                0x00001878                sendCommand
+ .text.LPUART2_RxTx_IRQHandler
+                0x000018f8      0x214 ./src/Init_Settings/INIT_UART2.o
+                0x000018f8                LPUART2_RxTx_IRQHandler
+ .text.initUART0
+                0x00001b0c       0x50 ./src/Init_Settings/INIT_UART0.o
+                0x00001b0c                initUART0
+ .text.LPUART0_RxTx_IRQHandler
+                0x00001b5c       0x80 ./src/Init_Settings/INIT_UART0.o
+                0x00001b5c                LPUART0_RxTx_IRQHandler
+ .text.initPortE
+                0x00001bdc       0x1c ./src/Init_Settings/INIT_PORTE.o
+                0x00001bdc                initPortE
+ .text.PORTE_IRQHandler
+                0x00001bf8       0x8c ./src/Init_Settings/INIT_PORTE.o
+                0x00001bf8                PORTE_IRQHandler
+ .text.initLPIT1
+                0x00001c84       0x34 ./src/Init_Settings/INIT_LPIT1.o
+                0x00001c84                initLPIT1
+ .text.LPIT0_Ch1_IRQHandler
+                0x00001cb8       0x1c ./src/Init_Settings/INIT_LPIT1.o
+                0x00001cb8                LPIT0_Ch1_IRQHandler
+ .text.initLPIT0
+                0x00001cd4       0x34 ./src/Init_Settings/INIT_LPIT0.o
+                0x00001cd4                initLPIT0
+ .text.LPIT0_Ch0_IRQHandler
+                0x00001d08       0x38 ./src/Init_Settings/INIT_LPIT0.o
+                0x00001d08                LPIT0_Ch0_IRQHandler
+ .text.SIRC_div
+                0x00001d40       0x50 ./src/Init_Settings/INIT_I2C.o
+                0x00001d40                SIRC_div
+ .text.initI2C  0x00001d90       0x4c ./src/Init_Settings/INIT_I2C.o
+                0x00001d90                initI2C
+ .text.bus_busy
+                0x00001ddc       0x60 ./src/Init_Settings/INIT_I2C.o
+ .text.generate_start_ACK
+                0x00001e3c       0x2c ./src/Init_Settings/INIT_I2C.o
+                0x00001e3c                generate_start_ACK
+ .text.transmit_data
+                0x00001e68       0x20 ./src/Init_Settings/INIT_I2C.o
+ .text.generate_stop
+                0x00001e88       0x88 ./src/Init_Settings/INIT_I2C.o
+ .text.receive_data
+                0x00001f10       0xb4 ./src/Init_Settings/INIT_I2C.o
+ .text.LPI2C0_write
+                0x00001fc4       0x68 ./src/Init_Settings/INIT_I2C.o
+                0x00001fc4                LPI2C0_write
+ .text.LPI2C0_read
+                0x0000202c       0x78 ./src/Init_Settings/INIT_I2C.o
+                0x0000202c                LPI2C0_read
+ .text.readOrientation
+                0x000020a4      0x27c ./src/Init_Settings/INIT_I2C.o
+                0x000020a4                readOrientation
+ .text.initFTM0
+                0x00002320       0x54 ./src/Init_Settings/INIT_FTM0.o
+                0x00002320                initFTM0
+ *fill*         0x00002374        0x4 
+ .text.FTM0_Ch0_Ch1_IRQHandler
+                0x00002378      0x2bc ./src/Init_Settings/INIT_FTM0.o
+                0x00002378                FTM0_Ch0_Ch1_IRQHandler
+ .text.FTM0_Ovf_Reload_IRQHandler
+                0x00002634       0x40 ./src/Init_Settings/INIT_FTM0.o
+                0x00002634                FTM0_Ovf_Reload_IRQHandler
+ .text.initFTM3
+                0x00002674       0x74 ./src/Init_Settings/INIT_FTM.o
+                0x00002674                initFTM3
+ .text.PWM      0x000026e8       0x6c ./src/Init_Settings/INIT_FTM.o
+                0x000026e8                PWM
+ .text.initADC0
+                0x00002754       0x34 ./src/Init_Settings/INIT_ADC0.o
+                0x00002754                initADC0
+ .text.readCurrent
+                0x00002788      0x13c ./src/Init_Settings/INIT_ADC0.o
+                0x00002788                readCurrent
+ .text.init     0x000028c4      0x238 ./src/Init_Settings/INIT.o
+                0x000028c4                init
+ .text.resetSequence
+                0x00002afc       0x50 ./src/Functions/SEMIAUTOMATICO.o
+                0x00002afc                resetSequence
+ .text.motorsOff
+                0x00002b4c       0x20 ./src/Functions/SEMIAUTOMATICO.o
+                0x00002b4c                motorsOff
+ .text.followStation
+                0x00002b6c       0x98 ./src/Functions/SEMIAUTOMATICO.o
+                0x00002b6c                followStation
+ .text.followSequence
+                0x00002c04      0x140 ./src/Functions/SEMIAUTOMATICO.o
+                0x00002c04                followSequence
+ .text.semiautomatico
+                0x00002d44      0x16c ./src/Functions/SEMIAUTOMATICO.o
+                0x00002d44                semiautomatico
+ .text.moveManual
+                0x00002eb0       0xcc ./src/Functions/MANUAL.o
+                0x00002eb0                moveManual
+ .text.controlMecanism
+                0x00002f7c       0x84 ./src/Functions/MANUAL.o
+                0x00002f7c                controlMecanism
+ .text.manual   0x00003000       0x74 ./src/Functions/MANUAL.o
+                0x00003000                manual
+ .text.lineTracker
+                0x00003074       0xb0 ./src/Functions/LINE_TRACKER.o
+                0x00003074                lineTracker
+ .text.SystemInit
+                0x00003124       0x30 ./Project_Settings/Startup_Code/system_S32K144.o
+                0x00003124                SystemInit
+ .text.init_data_bss
+                0x00003154      0x110 ./Project_Settings/Startup_Code/startup.o
+                0x00003154                init_data_bss
+ .text.pow      0x00003264        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_pow.o)
+                0x00003264                pow
+ .text.sqrt     0x00003268        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_sqrt.o)
+                0x00003268                sqrt
+ *fill*         0x0000326c        0x4 
+ .text.__ieee754_pow
+                0x00003270      0xb54 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_pow.o)
+                0x00003270                __ieee754_pow
+ .text.__ieee754_sqrt
+                0x00003dc4      0x160 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_sqrt.o)
+                0x00003dc4                __ieee754_sqrt
+ .text.__fpclassifyd
+                0x00003f24       0x3c C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o)
+                0x00003f24                __fpclassifyd
+ .text.scalbn   0x00003f60       0x18 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(scalbn.o)
+                0x00003f60                scalbn
+ .text.frexp    0x00003f78       0x6c C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_frexp.o)
+                0x00003f78                frexp
+ *fill*         0x00003fe4        0x4 
+ .text.ldexp    0x00003fe8      0x12c C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_ldexp.o)
+                0x00003fe8                ldexp
+ *(.rodata)
+ *(.rodata*)
+ *fill*         0x00004114        0x4 
+ .rodata.dp_h   0x00004118       0x10 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_pow.o)
+ .rodata.dp_l   0x00004128       0x10 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_pow.o)
+ .rodata.bp     0x00004138       0x10 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_pow.o)
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.eh_frame)
+ *(.init)
+ *(.fini)
+                0x00004148                . = ALIGN (0x4)
+
+.vfp11_veneer   0x00004148        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00004148        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x00004148        0x0
+ .iplt          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+
+.rel.dyn        0x00004148        0x0
+ .rel.iplt      0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x00004148        0x0
+                0x00004148                __exidx_start = .
+ *(.ARM.exidx*)
+                0x00004148                __exidx_end = .
+
+.ctors          0x00004148        0x0
+                0x00004148                __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x00004148                __CTOR_END__ = .
+
+.dtors          0x00004148        0x0
+                0x00004148                __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x00004148                __DTOR_END__ = .
+
+.preinit_array  0x00004148        0x0
+                0x00004148                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x00004148                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x00004148        0x0
+                0x00004148                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+                0x00004148                PROVIDE (__init_array_end, .)
+
+.fini_array     0x00004148        0x0
+                0x00004148                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+                0x00004148                PROVIDE (__fini_array_end, .)
+                0x00004148                __etext = .
+                0x00004148                __DATA_ROM = .
+
+.interrupts_ram
+                0x1fff8000      0x400
+                0x1fff8000                . = ALIGN (0x4)
+                0x1fff8000                __VECTOR_RAM__ = .
+                0x1fff8000                __interrupts_ram_start__ = .
+ *(.m_interrupts_ram)
+                0x1fff8400                . = (. + M_VECTOR_RAM_SIZE)
+ *fill*         0x1fff8000      0x400 
+                0x1fff8400                . = ALIGN (0x4)
+                0x1fff8400                __interrupts_ram_end__ = .
+                0x1fff8000                __VECTOR_RAM = DEFINED (__flash_vector_table__)?ORIGIN (m_interrupts):__VECTOR_RAM__
+                0x00000400                __RAM_VECTOR_TABLE_SIZE = DEFINED (__flash_vector_table__)?0x0:(__interrupts_ram_end__ - __interrupts_ram_start__)
+
+.data           0x1fff8400       0x84 load address 0x00004148
+                0x1fff8400                . = ALIGN (0x4)
+                0x1fff8400                __DATA_RAM = .
+                0x1fff8400                __data_start__ = .
+ *(.data)
+ *(.data*)
+ .data.direction
+                0x1fff8400        0x1 ./src/Modules/MECANISM.o
+                0x1fff8400                direction
+ *fill*         0x1fff8401        0x3 
+ .data.arrived  0x1fff8404        0x4 ./src/Modules/MECANISM.o
+                0x1fff8404                arrived
+ .data.arr_sensors
+                0x1fff8408       0x21 ./src/Modules/BLUETOOTH.o
+                0x1fff8408                arr_sensors
+ *fill*         0x1fff8429        0x3 
+ .data.arr_commands
+                0x1fff842c       0x4b ./src/Init_Settings/INIT_UART2.o
+                0x1fff842c                arr_commands
+ *fill*         0x1fff8477        0x1 
+ .data.RESISTANCE
+                0x1fff8478        0x4 ./src/Init_Settings/INIT_ADC0.o
+                0x1fff8478                RESISTANCE
+ .data.__double_nan
+                0x1fff847c        0x8 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+                0x1fff847c                __double_nan
+ *(.jcr*)
+                0x1fff8484                . = ALIGN (0x4)
+                0x1fff8484                __data_end__ = .
+                0x000041cc                __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
+                0x000041cc                __CODE_ROM = __DATA_END
+
+.igot.plt       0x1fff8484        0x0 load address 0x000041cc
+ .igot.plt      0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m/__arm_start.o
+
+.code           0x1fff8484        0x0 load address 0x000041cc
+                0x1fff8484                . = ALIGN (0x4)
+                0x1fff8484                __CODE_RAM = .
+                0x1fff8484                __code_start__ = .
+ *(.code_ram)
+                0x1fff8484                . = ALIGN (0x4)
+                0x1fff8484                __code_end__ = .
+                0x000041cc                __CODE_END = (__CODE_ROM + (__code_end__ - __code_start__))
+
+.customSectionBlock
+ *(.customSection)
+
+.bss            0x20000000       0xf8
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                __BSS_START = .
+                0x20000000                __bss_start__ = .
+ *(.bss)
+ *(.bss*)
+ .bss.weight    0x20000000        0x4 ./src/Modules/WEIGHT.o
+                0x20000000                weight
+ .bss.enable    0x20000004        0x4 ./src/Modules/MECANISM.o
+                0x20000004                enable
+ .bss.limit     0x20000008        0x4 ./src/Modules/MECANISM.o
+                0x20000008                limit
+ .bss.counter_send
+                0x2000000c        0x4 ./src/Modules/BLUETOOTH.o
+                0x2000000c                counter_send
+ .bss.letter_bt
+                0x20000010        0x4 ./src/Modules/BLUETOOTH.o
+                0x20000010                letter_bt
+ .bss.a         0x20000014        0x4 ./src/Init_Settings/INIT_UART2.o
+                0x20000014                a
+ .bss.b         0x20000018        0x4 ./src/Init_Settings/INIT_UART2.o
+                0x20000018                b
+ .bss.i         0x2000001c        0x4 ./src/Init_Settings/INIT_UART2.o
+                0x2000001c                i
+ .bss.arr_wifi_data
+                0x20000020        0xf ./src/Init_Settings/INIT_UART2.o
+                0x20000020                arr_wifi_data
+ .bss.ready     0x2000002f        0x1 ./src/Init_Settings/INIT_UART2.o
+                0x2000002f                ready
+ .bss.counter   0x20000030        0x1 ./src/Init_Settings/INIT_UART2.o
+                0x20000030                counter
+ .bss.letter    0x20000031        0x1 ./src/Init_Settings/INIT_UART2.o
+                0x20000031                letter
+ *fill*         0x20000032        0x2 
+ .bss.h         0x20000034        0x4 ./src/Init_Settings/INIT_UART2.o
+                0x20000034                h
+ .bss.uart2_interrupt
+                0x20000038        0x4 ./src/Init_Settings/INIT_UART2.o
+                0x20000038                uart2_interrupt
+ .bss.j         0x2000003c        0x4 ./src/Init_Settings/INIT_UART0.o
+                0x2000003c                j
+ .bss.uart0_interrupt
+                0x20000040        0x4 ./src/Init_Settings/INIT_UART0.o
+                0x20000040                uart0_interrupt
+ .bss.active    0x20000044        0x4 ./src/Init_Settings/INIT_PORTE.o
+                0x20000044                active
+ .bss.k         0x20000048        0x4 ./src/Init_Settings/INIT_LPIT0.o
+                0x20000048                k
+ .bss.error     0x2000004c        0x1 ./src/Init_Settings/INIT_I2C.o
+                0x2000004c                error
+ *fill*         0x2000004d        0x3 
+ .bss.write_bus
+                0x20000050        0x4 ./src/Init_Settings/INIT_I2C.o
+                0x20000050                write_bus
+ .bss.revolutions_0
+                0x20000054        0x4 ./src/Init_Settings/INIT_FTM0.o
+                0x20000054                revolutions_0
+ .bss.revolutions_1
+                0x20000058        0x4 ./src/Init_Settings/INIT_FTM0.o
+                0x20000058                revolutions_1
+ .bss.FTM0_CH0_period
+                0x2000005c        0x4 ./src/Init_Settings/INIT_FTM0.o
+                0x2000005c                FTM0_CH0_period
+ .bss.FTM0_CH1_period
+                0x20000060        0x4 ./src/Init_Settings/INIT_FTM0.o
+                0x20000060                FTM0_CH1_period
+ .bss.old_time_0
+                0x20000064        0x2 ./src/Init_Settings/INIT_FTM0.o
+                0x20000064                old_time_0
+ .bss.old_time_1
+                0x20000066        0x2 ./src/Init_Settings/INIT_FTM0.o
+                0x20000066                old_time_1
+ .bss.new_time_0
+                0x20000068        0x2 ./src/Init_Settings/INIT_FTM0.o
+                0x20000068                new_time_0
+ .bss.new_time_1
+                0x2000006a        0x2 ./src/Init_Settings/INIT_FTM0.o
+                0x2000006a                new_time_1
+ .bss.overflow_0
+                0x2000006c        0x2 ./src/Init_Settings/INIT_FTM0.o
+                0x2000006c                overflow_0
+ .bss.overflow_1
+                0x2000006e        0x2 ./src/Init_Settings/INIT_FTM0.o
+                0x2000006e                overflow_1
+ .bss.rpm_0     0x20000070        0x4 ./src/Init_Settings/INIT_FTM0.o
+                0x20000070                rpm_0
+ .bss.rpm_1     0x20000074        0x4 ./src/Init_Settings/INIT_FTM0.o
+                0x20000074                rpm_1
+ .bss.vel_0     0x20000078        0x4 ./src/Init_Settings/INIT_FTM0.o
+                0x20000078                vel_0
+ .bss.vel_1     0x2000007c        0x4 ./src/Init_Settings/INIT_FTM0.o
+                0x2000007c                vel_1
+ .bss.ftm_interrupt
+                0x20000080        0x4 ./src/Init_Settings/INIT_FTM0.o
+                0x20000080                ftm_interrupt
+ .bss.station   0x20000084        0x4 ./src/Functions/SEMIAUTOMATICO.o
+                0x20000084                station
+ .bss.tmp_color
+                0x20000088        0x4 ./src/Functions/SEMIAUTOMATICO.o
+                0x20000088                tmp_color
+ .bss.filter_tx
+                0x2000008c        0x4 ./src/Functions/SEMIAUTOMATICO.o
+                0x2000008c                filter_tx
+ *(COMMON)
+ COMMON         0x20000090       0x14 ./src/Init_Settings/INIT_UART2.o
+                0x20000090                arr_input
+ COMMON         0x200000a4        0x7 ./src/Init_Settings/INIT_UART0.o
+                0x200000a4                TEMPORAL
+                0x200000a8                arr_rasp
+ *fill*         0x200000ab        0x1 
+ COMMON         0x200000ac       0x16 ./src/Init_Settings/INIT_I2C.o
+                0x200000ac                acceleration_y
+                0x200000b0                acy
+                0x200000b4                acceleration_z
+                0x200000b8                acceleration_x
+                0x200000bc                acz
+                0x200000c0                acx
+ *fill*         0x200000c2        0x2 
+ COMMON         0x200000c4       0x14 ./src/Init_Settings/INIT_ADC0.o
+                0x200000c4                final_current
+                0x200000c8                voltage
+                0x200000cc                final_voltage
+                0x200000d0                current
+                0x200000d4                value_ADC
+ COMMON         0x200000d8        0xc ./src/Functions/SEMIAUTOMATICO.o
+                0x200000d8                arr_sequence
+ COMMON         0x200000e4        0x1 ./src/Functions/MANUAL.o
+                0x200000e4                command_manual
+ *fill*         0x200000e5        0x3 
+ COMMON         0x200000e8        0xc ./src/Functions/LINE_TRACKER.o
+                0x200000e8                side
+                0x200000ec                pwm_right
+                0x200000f0                pwm_left
+ COMMON         0x200000f4        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(errno.o)
+                0x200000f4                errno
+                0x200000f8                . = ALIGN (0x4)
+                0x200000f8                __bss_end__ = .
+                0x200000f8                __BSS_END = .
+
+.heap           0x200000f8      0x400
+                0x200000f8                . = ALIGN (0x8)
+                0x200000f8                __end__ = .
+                0x200000f8                PROVIDE (end, .)
+                0x200000f8                PROVIDE (_end, .)
+                0x200000f8                PROVIDE (__end, .)
+                0x200000f8                __HeapBase = .
+                0x200004f8                . = (. + HEAP_SIZE)
+ *fill*         0x200000f8      0x400 
+                0x200004f8                __HeapLimit = .
+                0x200004f8                __heap_limit = .
+
+.stack          0x200004f8      0x400
+                0x200004f8                . = ALIGN (0x8)
+                0x200008f8                . = (. + STACK_SIZE)
+ *fill*         0x200004f8      0x400 
+                0x20007000                __StackTop = (ORIGIN (m_data_2) + 0x7000)
+                0x20006c00                __StackLimit = (__StackTop - STACK_SIZE)
+                0x20007000                PROVIDE (__stack, __StackTop)
+
+.ARM.attributes
+                0x00000000       0x31
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x33 ./src/main.o
+ .ARM.attributes
+                0x00000033       0x33 ./src/Modules/WEIGHT.o
+ .ARM.attributes
+                0x00000066       0x33 ./src/Modules/MECANISM.o
+ .ARM.attributes
+                0x00000099       0x33 ./src/Modules/BLUETOOTH.o
+ .ARM.attributes
+                0x000000cc       0x33 ./src/Init_Settings/INIT_UART2.o
+ .ARM.attributes
+                0x000000ff       0x33 ./src/Init_Settings/INIT_UART0.o
+ .ARM.attributes
+                0x00000132       0x33 ./src/Init_Settings/INIT_PORTE.o
+ .ARM.attributes
+                0x00000165       0x33 ./src/Init_Settings/INIT_LPIT1.o
+ .ARM.attributes
+                0x00000198       0x33 ./src/Init_Settings/INIT_LPIT0.o
+ .ARM.attributes
+                0x000001cb       0x33 ./src/Init_Settings/INIT_I2C.o
+ .ARM.attributes
+                0x000001fe       0x33 ./src/Init_Settings/INIT_FTM0.o
+ .ARM.attributes
+                0x00000231       0x33 ./src/Init_Settings/INIT_FTM.o
+ .ARM.attributes
+                0x00000264       0x33 ./src/Init_Settings/INIT_ADC0.o
+ .ARM.attributes
+                0x00000297       0x33 ./src/Init_Settings/INIT.o
+ .ARM.attributes
+                0x000002ca       0x33 ./src/Functions/SEMIAUTOMATICO.o
+ .ARM.attributes
+                0x000002fd       0x33 ./src/Functions/MANUAL.o
+ .ARM.attributes
+                0x00000330       0x33 ./src/Functions/LINE_TRACKER.o
+ .ARM.attributes
+                0x00000363       0x33 ./Project_Settings/Startup_Code/system_S32K144.o
+ .ARM.attributes
+                0x00000396       0x1b ./Project_Settings/Startup_Code/startup_S32K144.o
+ .ARM.attributes
+                0x000003b1       0x33 ./Project_Settings/Startup_Code/startup.o
+ .ARM.attributes
+                0x000003e4       0x33 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_pow.o)
+ .ARM.attributes
+                0x00000417       0x33 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_sqrt.o)
+ .ARM.attributes
+                0x0000044a       0x33 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_pow.o)
+ .ARM.attributes
+                0x0000047d       0x33 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_sqrt.o)
+ .ARM.attributes
+                0x000004b0       0x33 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .ARM.attributes
+                0x000004e3       0x33 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o)
+ .ARM.attributes
+                0x00000516       0x33 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(scalbn.o)
+ .ARM.attributes
+                0x00000549       0x33 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_frexp.o)
+ .ARM.attributes
+                0x0000057c       0x33 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_ldexp.o)
+ .ARM.attributes
+                0x000005af       0x1e c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x000005cd       0x1e c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x000005eb       0x1e c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000609       0x1e c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x00000627       0x1e c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000645       0x1e c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x00000663       0x1e c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x00000681       0x1e c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a(_arm_fixsfsi.o)
+ .ARM.attributes
+                0x0000069f       0x33 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(errno.o)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data_2 overflowed with stack and heap)
+OUTPUT(Agnes53.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x55c7
+ .debug_info    0x00000000       0x8c ./src/main.o
+ .debug_info    0x0000008c      0x269 ./src/Modules/WEIGHT.o
+ .debug_info    0x000002f5      0x190 ./src/Modules/MECANISM.o
+ .debug_info    0x00000485      0x2b2 ./src/Modules/BLUETOOTH.o
+ .debug_info    0x00000737      0x4d0 ./src/Init_Settings/INIT_UART2.o
+ .debug_info    0x00000c07      0x35f ./src/Init_Settings/INIT_UART0.o
+ .debug_info    0x00000f66      0x34c ./src/Init_Settings/INIT_PORTE.o
+ .debug_info    0x000012b2      0x2d9 ./src/Init_Settings/INIT_LPIT1.o
+ .debug_info    0x0000158b      0x39a ./src/Init_Settings/INIT_LPIT0.o
+ .debug_info    0x00001925      0x7a3 ./src/Init_Settings/INIT_I2C.o
+ .debug_info    0x000020c8      0x534 ./src/Init_Settings/INIT_FTM0.o
+ .debug_info    0x000025fc      0x311 ./src/Init_Settings/INIT_FTM.o
+ .debug_info    0x0000290d      0x2ff ./src/Init_Settings/INIT_ADC0.o
+ .debug_info    0x00002c0c      0x4b4 ./src/Init_Settings/INIT.o
+ .debug_info    0x000030c0      0x41d ./src/Functions/SEMIAUTOMATICO.o
+ .debug_info    0x000034dd      0x283 ./src/Functions/MANUAL.o
+ .debug_info    0x00003760      0x121 ./src/Functions/LINE_TRACKER.o
+ .debug_info    0x00003881      0x500 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_info    0x00003d81       0x93 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .debug_info    0x00003e14      0x41d ./Project_Settings/Startup_Code/startup.o
+ .debug_info    0x00004231       0xbf C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_pow.o)
+ .debug_info    0x000042f0       0xb2 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_sqrt.o)
+ .debug_info    0x000043a2      0x5c6 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_pow.o)
+ .debug_info    0x00004968      0x266 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_sqrt.o)
+ .debug_info    0x00004bce      0x1e4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .debug_info    0x00004db2      0x303 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o)
+ .debug_info    0x000050b5       0xf2 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(scalbn.o)
+ .debug_info    0x000051a7      0x1a1 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_frexp.o)
+ .debug_info    0x00005348      0x1e2 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_ldexp.o)
+ .debug_info    0x0000552a       0x9d C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(errno.o)
+
+.debug_abbrev   0x00000000     0x18ef
+ .debug_abbrev  0x00000000       0x47 ./src/main.o
+ .debug_abbrev  0x00000047      0x119 ./src/Modules/WEIGHT.o
+ .debug_abbrev  0x00000160       0xc3 ./src/Modules/MECANISM.o
+ .debug_abbrev  0x00000223       0xe4 ./src/Modules/BLUETOOTH.o
+ .debug_abbrev  0x00000307      0x166 ./src/Init_Settings/INIT_UART2.o
+ .debug_abbrev  0x0000046d       0xf1 ./src/Init_Settings/INIT_UART0.o
+ .debug_abbrev  0x0000055e       0xef ./src/Init_Settings/INIT_PORTE.o
+ .debug_abbrev  0x0000064d       0xf6 ./src/Init_Settings/INIT_LPIT1.o
+ .debug_abbrev  0x00000743      0x107 ./src/Init_Settings/INIT_LPIT0.o
+ .debug_abbrev  0x0000084a      0x1a9 ./src/Init_Settings/INIT_I2C.o
+ .debug_abbrev  0x000009f3      0x100 ./src/Init_Settings/INIT_FTM0.o
+ .debug_abbrev  0x00000af3       0xd7 ./src/Init_Settings/INIT_FTM.o
+ .debug_abbrev  0x00000bca       0xe0 ./src/Init_Settings/INIT_ADC0.o
+ .debug_abbrev  0x00000caa       0xcf ./src/Init_Settings/INIT.o
+ .debug_abbrev  0x00000d79      0x14e ./src/Functions/SEMIAUTOMATICO.o
+ .debug_abbrev  0x00000ec7       0xcc ./src/Functions/MANUAL.o
+ .debug_abbrev  0x00000f93       0x79 ./src/Functions/LINE_TRACKER.o
+ .debug_abbrev  0x0000100c      0x118 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_abbrev  0x00001124       0x14 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .debug_abbrev  0x00001138      0x101 ./Project_Settings/Startup_Code/startup.o
+ .debug_abbrev  0x00001239       0x59 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_pow.o)
+ .debug_abbrev  0x00001292       0x59 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_sqrt.o)
+ .debug_abbrev  0x000012eb      0x157 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_pow.o)
+ .debug_abbrev  0x00001442      0x10b C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_sqrt.o)
+ .debug_abbrev  0x0000154d       0x56 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .debug_abbrev  0x000015a3       0xe8 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o)
+ .debug_abbrev  0x0000168b       0x84 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(scalbn.o)
+ .debug_abbrev  0x0000170f       0xce C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_frexp.o)
+ .debug_abbrev  0x000017dd       0xce C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_ldexp.o)
+ .debug_abbrev  0x000018ab       0x44 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(errno.o)
+
+.debug_aranges  0x00000000      0x540
+ .debug_aranges
+                0x00000000       0x20 ./src/main.o
+ .debug_aranges
+                0x00000020       0x48 ./src/Modules/WEIGHT.o
+ .debug_aranges
+                0x00000068       0x38 ./src/Modules/MECANISM.o
+ .debug_aranges
+                0x000000a0       0x50 ./src/Modules/BLUETOOTH.o
+ .debug_aranges
+                0x000000f0       0x38 ./src/Init_Settings/INIT_UART2.o
+ .debug_aranges
+                0x00000128       0x28 ./src/Init_Settings/INIT_UART0.o
+ .debug_aranges
+                0x00000150       0x28 ./src/Init_Settings/INIT_PORTE.o
+ .debug_aranges
+                0x00000178       0x28 ./src/Init_Settings/INIT_LPIT1.o
+ .debug_aranges
+                0x000001a0       0x28 ./src/Init_Settings/INIT_LPIT0.o
+ .debug_aranges
+                0x000001c8       0x68 ./src/Init_Settings/INIT_I2C.o
+ .debug_aranges
+                0x00000230       0x30 ./src/Init_Settings/INIT_FTM0.o
+ .debug_aranges
+                0x00000260       0x28 ./src/Init_Settings/INIT_FTM.o
+ .debug_aranges
+                0x00000288       0x28 ./src/Init_Settings/INIT_ADC0.o
+ .debug_aranges
+                0x000002b0       0x20 ./src/Init_Settings/INIT.o
+ .debug_aranges
+                0x000002d0       0x40 ./src/Functions/SEMIAUTOMATICO.o
+ .debug_aranges
+                0x00000310       0x30 ./src/Functions/MANUAL.o
+ .debug_aranges
+                0x00000340       0x20 ./src/Functions/LINE_TRACKER.o
+ .debug_aranges
+                0x00000360       0x30 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_aranges
+                0x00000390       0x20 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .debug_aranges
+                0x000003b0       0x20 ./Project_Settings/Startup_Code/startup.o
+ .debug_aranges
+                0x000003d0       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_pow.o)
+ .debug_aranges
+                0x000003f0       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_sqrt.o)
+ .debug_aranges
+                0x00000410       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_pow.o)
+ .debug_aranges
+                0x00000430       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_sqrt.o)
+ .debug_aranges
+                0x00000450       0x18 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .debug_aranges
+                0x00000468       0x60 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o)
+ .debug_aranges
+                0x000004c8       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(scalbn.o)
+ .debug_aranges
+                0x000004e8       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_frexp.o)
+ .debug_aranges
+                0x00000508       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_ldexp.o)
+ .debug_aranges
+                0x00000528       0x18 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(errno.o)
+
+.debug_ranges   0x00000000      0x280
+ .debug_ranges  0x00000000       0x10 ./src/main.o
+ .debug_ranges  0x00000010       0x38 ./src/Modules/WEIGHT.o
+ .debug_ranges  0x00000048       0x28 ./src/Modules/MECANISM.o
+ .debug_ranges  0x00000070       0x40 ./src/Modules/BLUETOOTH.o
+ .debug_ranges  0x000000b0       0x28 ./src/Init_Settings/INIT_UART2.o
+ .debug_ranges  0x000000d8       0x18 ./src/Init_Settings/INIT_UART0.o
+ .debug_ranges  0x000000f0       0x18 ./src/Init_Settings/INIT_PORTE.o
+ .debug_ranges  0x00000108       0x18 ./src/Init_Settings/INIT_LPIT1.o
+ .debug_ranges  0x00000120       0x18 ./src/Init_Settings/INIT_LPIT0.o
+ .debug_ranges  0x00000138       0x58 ./src/Init_Settings/INIT_I2C.o
+ .debug_ranges  0x00000190       0x20 ./src/Init_Settings/INIT_FTM0.o
+ .debug_ranges  0x000001b0       0x18 ./src/Init_Settings/INIT_FTM.o
+ .debug_ranges  0x000001c8       0x18 ./src/Init_Settings/INIT_ADC0.o
+ .debug_ranges  0x000001e0       0x10 ./src/Init_Settings/INIT.o
+ .debug_ranges  0x000001f0       0x30 ./src/Functions/SEMIAUTOMATICO.o
+ .debug_ranges  0x00000220       0x20 ./src/Functions/MANUAL.o
+ .debug_ranges  0x00000240       0x10 ./src/Functions/LINE_TRACKER.o
+ .debug_ranges  0x00000250       0x20 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_ranges  0x00000270       0x10 ./Project_Settings/Startup_Code/startup.o
+
+.debug_macro    0x00000000    0x11d06
+ .debug_macro   0x00000000      0x10a ./src/main.o
+ .debug_macro   0x0000010a      0x868 ./src/main.o
+ .debug_macro   0x00000972       0x52 ./src/main.o
+ .debug_macro   0x000009c4       0xa0 ./src/main.o
+ .debug_macro   0x00000a64       0x16 ./src/main.o
+ .debug_macro   0x00000a7a       0x19 ./src/main.o
+ .debug_macro   0x00000a93       0x64 ./src/main.o
+ .debug_macro   0x00000af7      0x185 ./src/main.o
+ .debug_macro   0x00000c7c      0x140 ./src/main.o
+ .debug_macro   0x00000dbc       0x9d ./src/main.o
+ .debug_macro   0x00000e59       0x10 ./src/main.o
+ .debug_macro   0x00000e69      0x15b ./src/main.o
+ .debug_macro   0x00000fc4       0x28 ./src/main.o
+ .debug_macro   0x00000fec       0x58 ./src/main.o
+ .debug_macro   0x00001044     0xecad ./src/main.o
+ .debug_macro   0x0000fcf1       0xba ./src/Modules/WEIGHT.o
+ .debug_macro   0x0000fdab       0xce ./src/Modules/MECANISM.o
+ .debug_macro   0x0000fe79       0xba ./src/Modules/BLUETOOTH.o
+ .debug_macro   0x0000ff33       0xc4 ./src/Init_Settings/INIT_UART2.o
+ .debug_macro   0x0000fff7       0xb0 ./src/Init_Settings/INIT_UART0.o
+ .debug_macro   0x000100a7       0xb0 ./src/Init_Settings/INIT_PORTE.o
+ .debug_macro   0x00010157       0xc4 ./src/Init_Settings/INIT_LPIT1.o
+ .debug_macro   0x0001021b       0xc4 ./src/Init_Settings/INIT_LPIT0.o
+ .debug_macro   0x000102df      0x139 ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x00010418       0x28 ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x00010440       0x16 ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x00010456       0xd6 ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x0001052c       0x80 ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x000105ac      0x194 ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x00010740       0xac ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x000107ec       0x10 ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x000107fc      0x118 ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x00010914      0x193 ./src/Init_Settings/INIT_I2C.o
+ .debug_macro   0x00010aa7       0xba ./src/Init_Settings/INIT_FTM0.o
+ .debug_macro   0x00010b61       0xc4 ./src/Init_Settings/INIT_FTM.o
+ .debug_macro   0x00010c25       0xc4 ./src/Init_Settings/INIT_ADC0.o
+ .debug_macro   0x00010ce9       0xb0 ./src/Init_Settings/INIT.o
+ .debug_macro   0x00010d99      0x114 ./src/Functions/SEMIAUTOMATICO.o
+ .debug_macro   0x00010ead       0xec ./src/Functions/MANUAL.o
+ .debug_macro   0x00010f99       0xba ./src/Functions/LINE_TRACKER.o
+ .debug_macro   0x00011053       0xe9 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x0001113c       0x10 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x0001114c       0x6d ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x000111b9      0xa19 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00011bd2       0x22 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00011bf4       0x28 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00011c1c       0xea ./Project_Settings/Startup_Code/startup.o
+
+.debug_line     0x00000000     0x38cd
+ .debug_line    0x00000000      0x27c ./src/main.o
+ .debug_line    0x0000027c      0x284 ./src/Modules/WEIGHT.o
+ .debug_line    0x00000500      0x290 ./src/Modules/MECANISM.o
+ .debug_line    0x00000790      0x2fb ./src/Modules/BLUETOOTH.o
+ .debug_line    0x00000a8b      0x306 ./src/Init_Settings/INIT_UART2.o
+ .debug_line    0x00000d91      0x1f8 ./src/Init_Settings/INIT_UART0.o
+ .debug_line    0x00000f89      0x1fb ./src/Init_Settings/INIT_PORTE.o
+ .debug_line    0x00001184      0x235 ./src/Init_Settings/INIT_LPIT1.o
+ .debug_line    0x000013b9      0x22f ./src/Init_Settings/INIT_LPIT0.o
+ .debug_line    0x000015e8      0x3e2 ./src/Init_Settings/INIT_I2C.o
+ .debug_line    0x000019ca      0x264 ./src/Init_Settings/INIT_FTM0.o
+ .debug_line    0x00001c2e      0x253 ./src/Init_Settings/INIT_FTM.o
+ .debug_line    0x00001e81      0x236 ./src/Init_Settings/INIT_ADC0.o
+ .debug_line    0x000020b7      0x1ff ./src/Init_Settings/INIT.o
+ .debug_line    0x000022b6      0x394 ./src/Functions/SEMIAUTOMATICO.o
+ .debug_line    0x0000264a      0x2d0 ./src/Functions/MANUAL.o
+ .debug_line    0x0000291a      0x21f ./src/Functions/LINE_TRACKER.o
+ .debug_line    0x00002b39      0x2a2 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_line    0x00002ddb       0x83 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .debug_line    0x00002e5e      0x26c ./Project_Settings/Startup_Code/startup.o
+ .debug_line    0x000030ca       0x70 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_pow.o)
+ .debug_line    0x0000313a       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_sqrt.o)
+ .debug_line    0x000031ab      0x201 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_pow.o)
+ .debug_line    0x000033ac      0x10e C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_sqrt.o)
+ .debug_line    0x000034ba       0x60 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .debug_line    0x0000351a      0x175 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o)
+ .debug_line    0x0000368f       0x75 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(scalbn.o)
+ .debug_line    0x00003704       0xb9 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_frexp.o)
+ .debug_line    0x000037bd       0xc3 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_ldexp.o)
+ .debug_line    0x00003880       0x4d C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(errno.o)
+
+.debug_str      0x00000000    0x6b4ea
+ .debug_str     0x00000000    0x634c2 ./src/main.o
+                              0x63552 (size before relaxing)
+ .debug_str     0x000634c2       0xd5 ./src/Modules/WEIGHT.o
+                              0x63530 (size before relaxing)
+ .debug_str     0x00063597       0x8b ./src/Modules/MECANISM.o
+                              0x6354d (size before relaxing)
+ .debug_str     0x00063622      0x125 ./src/Modules/BLUETOOTH.o
+                              0x63572 (size before relaxing)
+ .debug_str     0x00063747      0x144 ./src/Init_Settings/INIT_UART2.o
+                              0x63651 (size before relaxing)
+ .debug_str     0x0006388b       0x7a ./src/Init_Settings/INIT_UART0.o
+                              0x635b4 (size before relaxing)
+ .debug_str     0x00063905       0x7a ./src/Init_Settings/INIT_PORTE.o
+                              0x63582 (size before relaxing)
+ .debug_str     0x0006397f       0x85 ./src/Init_Settings/INIT_LPIT1.o
+                              0x6358f (size before relaxing)
+ .debug_str     0x00063a04       0x41 ./src/Init_Settings/INIT_LPIT0.o
+                              0x635cc (size before relaxing)
+ .debug_str     0x00063a45     0x19f2 ./src/Init_Settings/INIT_I2C.o
+                              0x64f4d (size before relaxing)
+ .debug_str     0x00065437      0x1c4 ./src/Init_Settings/INIT_FTM0.o
+                              0x636d6 (size before relaxing)
+ .debug_str     0x000655fb       0x50 ./src/Init_Settings/INIT_FTM.o
+                              0x635e5 (size before relaxing)
+ .debug_str     0x0006564b       0xf7 ./src/Init_Settings/INIT_ADC0.o
+                              0x635b2 (size before relaxing)
+ .debug_str     0x00065742       0x21 ./src/Init_Settings/INIT.o
+                              0x635de (size before relaxing)
+ .debug_str     0x00065763       0xdc ./src/Functions/SEMIAUTOMATICO.o
+                              0x6372c (size before relaxing)
+ .debug_str     0x0006583f       0x35 ./src/Functions/MANUAL.o
+                              0x635eb (size before relaxing)
+ .debug_str     0x00065874       0x58 ./src/Functions/LINE_TRACKER.o
+                              0x634f7 (size before relaxing)
+ .debug_str     0x000658cc     0x566d ./Project_Settings/Startup_Code/system_S32K144.o
+                              0x68b89 (size before relaxing)
+ .debug_str     0x0006af39      0x12f ./Project_Settings/Startup_Code/startup.o
+                              0x68abf (size before relaxing)
+ .debug_str     0x0006b068      0x162 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_pow.o)
+                                0x204 (size before relaxing)
+ .debug_str     0x0006b1ca       0x12 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_sqrt.o)
+                                0x20a (size before relaxing)
+ .debug_str     0x0006b1dc       0x94 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_pow.o)
+                                0x2ac (size before relaxing)
+ .debug_str     0x0006b270       0x26 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_sqrt.o)
+                                0x25d (size before relaxing)
+ .debug_str     0x0006b296       0xf9 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+                                0x304 (size before relaxing)
+ .debug_str     0x0006b38f       0xe0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o)
+                                0x307 (size before relaxing)
+ .debug_str     0x0006b46f       0x25 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(scalbn.o)
+                                0x21e (size before relaxing)
+ .debug_str     0x0006b494       0x24 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_frexp.o)
+                                0x23c (size before relaxing)
+ .debug_str     0x0006b4b8       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_ldexp.o)
+                                0x243 (size before relaxing)
+ .debug_str     0x0006b4d8       0x12 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(errno.o)
+                                0x20b (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ./src/main.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./src/Modules/WEIGHT.o
+ .comment       0x00000000       0x71 ./src/Modules/MECANISM.o
+ .comment       0x00000000       0x71 ./src/Modules/BLUETOOTH.o
+ .comment       0x00000000       0x71 ./src/Init_Settings/INIT_UART2.o
+ .comment       0x00000000       0x71 ./src/Init_Settings/INIT_UART0.o
+ .comment       0x00000000       0x71 ./src/Init_Settings/INIT_PORTE.o
+ .comment       0x00000000       0x71 ./src/Init_Settings/INIT_LPIT1.o
+ .comment       0x00000000       0x71 ./src/Init_Settings/INIT_LPIT0.o
+ .comment       0x00000000       0x71 ./src/Init_Settings/INIT_I2C.o
+ .comment       0x00000000       0x71 ./src/Init_Settings/INIT_FTM0.o
+ .comment       0x00000000       0x71 ./src/Init_Settings/INIT_FTM.o
+ .comment       0x00000000       0x71 ./src/Init_Settings/INIT_ADC0.o
+ .comment       0x00000000       0x71 ./src/Init_Settings/INIT.o
+ .comment       0x00000000       0x71 ./src/Functions/SEMIAUTOMATICO.o
+ .comment       0x00000000       0x71 ./src/Functions/MANUAL.o
+ .comment       0x00000000       0x71 ./src/Functions/LINE_TRACKER.o
+ .comment       0x00000000       0x71 ./Project_Settings/Startup_Code/system_S32K144.o
+ .comment       0x00000000       0x71 ./Project_Settings/Startup_Code/startup.o
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_pow.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_sqrt.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_pow.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_sqrt.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(float.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(scalbn.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_frexp.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_ldexp.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libc99.a(errno.o)
+
+.debug_frame    0x00000000      0xb78
+ .debug_frame   0x00000000       0x2c ./src/main.o
+ .debug_frame   0x0000002c       0xec ./src/Modules/WEIGHT.o
+ .debug_frame   0x00000118       0x84 ./src/Modules/MECANISM.o
+ .debug_frame   0x0000019c      0x120 ./src/Modules/BLUETOOTH.o
+ .debug_frame   0x000002bc       0xa4 ./src/Init_Settings/INIT_UART2.o
+ .debug_frame   0x00000360       0x50 ./src/Init_Settings/INIT_UART0.o
+ .debug_frame   0x000003b0       0x50 ./src/Init_Settings/INIT_PORTE.o
+ .debug_frame   0x00000400       0x4c ./src/Init_Settings/INIT_LPIT1.o
+ .debug_frame   0x0000044c       0x4c ./src/Init_Settings/INIT_LPIT0.o
+ .debug_frame   0x00000498      0x178 ./src/Init_Settings/INIT_I2C.o
+ .debug_frame   0x00000610       0x6c ./src/Init_Settings/INIT_FTM0.o
+ .debug_frame   0x0000067c       0x58 ./src/Init_Settings/INIT_FTM.o
+ .debug_frame   0x000006d4       0x4c ./src/Init_Settings/INIT_ADC0.o
+ .debug_frame   0x00000720       0x30 ./src/Init_Settings/INIT.o
+ .debug_frame   0x00000750       0xbc ./src/Functions/SEMIAUTOMATICO.o
+ .debug_frame   0x0000080c       0x64 ./src/Functions/MANUAL.o
+ .debug_frame   0x00000870       0x30 ./src/Functions/LINE_TRACKER.o
+ .debug_frame   0x000008a0       0x80 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_frame   0x00000920       0x38 ./Project_Settings/Startup_Code/startup.o
+ .debug_frame   0x00000958       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_pow.o)
+ .debug_frame   0x00000978       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_sqrt.o)
+ .debug_frame   0x00000998       0x54 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_pow.o)
+ .debug_frame   0x000009ec       0x34 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_sqrt.o)
+ .debug_frame   0x00000a20       0xcc C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o)
+ .debug_frame   0x00000aec       0x30 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(scalbn.o)
+ .debug_frame   0x00000b1c       0x2c C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_frexp.o)
+ .debug_frame   0x00000b48       0x30 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_ldexp.o)
+
+.debug_loc      0x00000000     0x10a3
+ .debug_loc     0x00000000       0x30 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_pow.o)
+ .debug_loc     0x00000030       0x18 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(w_sqrt.o)
+ .debug_loc     0x00000048      0x8fd C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_pow.o)
+ .debug_loc     0x00000945      0x20c C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(e_sqrt.o)
+ .debug_loc     0x00000b51      0x287 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(math_api.o)
+ .debug_loc     0x00000dd8       0x86 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(scalbn.o)
+ .debug_loc     0x00000e5e       0xcf C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_frexp.o)
+ .debug_loc     0x00000f2d      0x176 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv7e-m\libm.a(s_ldexp.o)
